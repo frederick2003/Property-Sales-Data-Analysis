@@ -1,0 +1,324 @@
+,Sale Date,Sale Price,Location,Year Built,Garden,Garage,Type,Stories,Bedrooms,Bathrooms,First Time Buyer
+0,2021-01-15,363337.0,Broomhouse,1993.0,Yes,Yes,Detached,1.0,3,1,no
+1,2021-01-15,448551.0,Broomhouse,1987.0,Yes,Yes,Detached,1.5,3,2,no
+2,2021-01-15,91929.0,Beacon Hill,1958.0,Yes,No,Bungalow,1.0,1,1,no
+3,2021-01-15,574519.0,Beacon Hill,1932.0,Yes,No,Detached,2.0,3,1,no
+4,2021-01-15,370181.0,Oak Park,1961.0,Yes,Yes,Detached,1.0,3,2,no
+5,2021-01-15,192553.0,Beacon Hill,1949.0,No,No,Bungalow,1.0,2,1,no
+6,2021-01-15,141336.0,Beacon Hill,1950.0,No,No,Bungalow,1.0,1,1,yes
+7,2021-01-15,311600.0,Brookville,1987.0,Yes,Yes,Detached,1.0,3,1,no
+8,2021-01-15,751680.0,Brookville,2017.0,Yes,Yes,Detached,1.0,3,2,no
+9,2021-01-15,528045.0,Brookville,2014.0,Yes,Yes,Detached,2.0,3,2,no
+10,2021-01-15,343151.0,Brookville,2006.0,Yes,Yes,Detached,1.0,3,1,no
+11,2021-01-15,377862.0,Broomhouse,1977.0,Yes,Unknown,Detached,1.5,3,1,yes
+12,2021-01-15,454968.0,Broomhouse,1961.0,Yes,No,Detached,1.0,3,1,no
+13,2021-01-15,325569.0,Broomhouse,1978.0,Yes,No,Detached,1.0,3,1,yes
+14,2021-01-15,316918.0,Rivermount,1928.0,Yes,No,Terraced,2.0,4,1,no
+15,2021-01-15,311611.0,Rivermount,1922.0,Yes,Unknown,Terraced,2.0,4,1,no
+16,2021-01-15,291368.0,Oak Park,1974.0,Yes,No,Detached,1.0,2,1,yes
+17,2021-01-15,659008.0,Oak Park,1985.0,Yes,Yes,Detached,1.0,3,2,yes
+18,2021-01-15,334056.0,Oak Park,1978.0,Yes,No,Detached,1.5,3,1,yes
+19,2021-01-15,256276.0,Oak Park,1974.0,No,No,Duplex,1.0,2,2,no
+20,2021-03-02,464065.0,Brookville,2018.0,Yes,Yes,Detached,1.0,3,2,yes
+21,2021-03-02,286256.0,Brookville,1984.0,Yes,Yes,Detached,1.0,3,1,no
+22,2021-03-02,230633.0,Broomhouse,1978.0,Yes,No,Bungalow,1.0,2,1,no
+23,2021-03-02,341354.0,Broomhouse,1974.0,Yes,Yes,Detached,1.0,3,1,no
+24,2021-03-02,216920.0,Rivermount,1942.0,Yes,Yes,Bungalow,1.0,2,1,yes
+25,2021-03-02,316356.0,Rivermount,1885.0,Yes,No,Detached,2.0,4,2,no
+26,2021-03-02,563000.0,Avoca,2009.0,Yes,Yes,Detached,2.0,3,3,no
+27,2021-03-02,371089.0,Oak Park,1983.0,Yes,Yes,Detached,1.0,3,1,no
+28,2021-03-02,1062900.0,Avoca,2018.0,Yes,Yes,Detached,2.0,3,2,no
+29,2021-03-02,386110.0,Porter Square,2016.0,Yes,Yes,Semi-Detached,2.0,2,2,no
+30,2021-03-02,408497.0,Porter Square,2017.0,Yes,Yes,End-of-Terrace,2.0,3,2,no
+31,2021-03-02,427575.0,Oak Park,1982.0,Yes,Yes,Detached,1.0,3,2,no
+32,2021-03-02,338466.0,Beacon Hill,1944.0,Yes,Yes,Detached,1.0,3,1,no
+33,2021-03-02,409045.0,Beacon Hill,1926.0,Yes,No,Detached,2.0,3,1,no
+34,2021-03-02,286030.0,Beacon Hill,1928.0,Yes,Yes,Bungalow,1.0,2,2,no
+35,2021-03-02,337067.0,Beacon Hill,1953.0,Yes,No,Detached,1.0,3,1,no
+36,2021-03-02,490908.0,Porter Square,2017.0,Yes,Yes,End-of-Terrace,2.0,3,2,no
+37,2021-03-02,735541.0,Porter Square,2017.0,Yes,Yes,Detached,2.0,3,2,no
+38,2021-03-02,548784.0,Porter Square,2020.0,Yes,No,Detached,2.0,3,2,no
+39,2021-03-02,425324.0,Porter Square,2012.0,Yes,No,Detached,1.0,2,2,yes
+40,2021-03-27,882440.0,Porter Square,2018.0,Yes,No,Detached,1.0,3,2,yes
+41,2021-03-27,372983.0,Broomhouse,1974.0,Yes,Yes,Detached,1.0,3,1,no
+42,2021-03-27,374884.0,Broomhouse,1967.0,Yes,Yes,Detached,1.5,3,1,no
+43,2021-03-27,366153.0,Broomhouse,2001.0,Yes,Unknown,Detached,1.5,2,1,yes
+44,2021-03-27,394684.0,Oak Park,1980.0,Yes,Yes,Detached,1.0,3,1,yes
+45,2021-03-27,393765.0,Oak Park,1972.0,Yes,No,Detached,1.0,2,1,no
+46,2021-03-27,301980.0,Broomhouse,1973.0,Yes,Yes,Detached,1.0,3,1,no
+47,2021-03-27,371745.0,Broomhouse,1989.0,Yes,Yes,Detached,1.0,3,1,no
+48,2021-03-27,332483.0,Oak Park,1969.0,Yes,No,Detached,1.5,3,1,yes
+49,2021-03-27,265492.0,Oak Park,1953.0,Yes,No,Bungalow,1.0,3,1,no
+50,2021-03-27,518045.0,Oak Park,1976.0,Yes,No,Detached,1.0,2,2,no
+51,2021-03-27,411797.0,Oak Park,1970.0,Yes,Yes,Detached,1.0,4,1,no
+52,2021-03-27,570205.0,Brookville,2018.0,Yes,No,Detached,2.0,3,2,yes
+53,2021-03-27,579203.0,Brookville,2013.0,Yes,Yes,Detached,2.0,4,2,yes
+54,2021-03-27,357054.0,Brookville,1987.0,Yes,Yes,Detached,1.0,3,1,no
+55,2021-03-27,564754.0,Brookville,2009.0,Yes,Unknown,Detached,1.0,4,2,no
+56,2021-03-27,527093.0,Brookville,2012.0,Yes,Yes,Detached,1.0,3,2,no
+57,2021-03-27,322940.0,Brookville,2006.0,Yes,Yes,Detached,1.0,3,1,no
+58,2021-03-27,437184.0,Oak Park,1982.0,Yes,Yes,Detached,1.0,2,1,no
+59,2021-03-27,362123.0,Summerston,1977.0,Yes,No,Detached,1.0,2,1,yes
+60,2021-04-27,347704.0,Rivermount,1931.0,Yes,Yes,Detached,1.0,4,2,no
+61,2021-04-27,260640.0,Rivermount,1968.0,Yes,No,Bungalow,1.0,1,1,no
+62,2021-04-27,264454.0,Rivermount,1910.0,Yes,No,Detached,2.0,4,2,no
+63,2021-04-27,339635.0,Broomhouse,1974.0,Yes,No,Detached,1.0,3,1,yes
+64,2021-04-27,274739.0,Oak Park,1983.0,Yes,Yes,Bungalow,1.0,3,1,no
+65,2021-04-27,299112.0,Rivermount,1892.0,Yes,No,Detached,2.0,5,2,no
+66,2021-04-27,454509.0,Rivermount,1942.0,Yes,Yes,Detached,1.0,3,2,yes
+67,2021-04-27,320022.0,Broomhouse,1978.0,Yes,No,Detached,1.0,3,1,no
+68,2021-04-27,606237.0,Porter Square,1978.0,Yes,Yes,Detached,2.0,3,2,yes
+69,2021-04-27,254297.0,Summerston,1922.0,Yes,No,Detached,2.0,2,1,yes
+70,2021-04-27,270268.0,Summerston,1935.0,No,Yes,Bungalow,1.0,3,1,no
+71,2021-04-27,266159.0,Summerston,1962.0,Yes,Yes,Bungalow,1.0,2,1,yes
+72,2021-04-27,158258.0,Summerston,1934.0,Yes,No,Bungalow,1.0,2,1,no
+73,2021-04-27,189231.0,Summerston,1944.0,Yes,No,Bungalow,1.0,2,1,no
+74,2021-04-27,384282.0,Summerston,1988.0,Yes,Unknown,Detached,1.0,3,1,no
+75,2021-04-27,355944.0,Summerston,1978.0,Yes,No,Detached,1.0,3,1,no
+76,2021-04-27,471084.0,Broomhouse,1974.0,Yes,Yes,Detached,1.0,3,2,no
+77,2021-04-27,296105.0,Broomhouse,1978.0,Yes,Yes,Detached,1.5,3,1,no
+78,2021-04-27,237358.0,Summerston,1977.0,Yes,No,Bungalow,1.0,3,1,yes
+79,2021-04-27,346903.0,Oak Park,1965.0,Yes,Yes,Detached,1.0,2,1,no
+80,2021-05-08,457093.0,Oak Park,1964.0,Yes,Yes,Detached,1.0,3,1,yes
+81,2021-05-08,563203.0,Brookville,2010.0,Yes,No,Detached,2.0,3,2,no
+82,2021-05-08,405414.0,Brookville,1986.0,Yes,Yes,Detached,1.0,4,2,no
+83,2021-05-08,331529.0,Broomhouse,1980.0,Yes,Yes,Detached,1.0,3,1,no
+84,2021-05-08,440660.0,Avoca,2007.0,Yes,Yes,Detached,2.0,3,2,no
+85,2021-05-08,302393.0,Summerston,2002.0,No,No,Duplex,1.5,3,1,yes
+86,2021-05-08,560489.0,Beacon Hill,1935.0,Yes,No,Detached,1.0,3,1,no
+87,2021-05-08,599315.0,Summerston,1964.0,Yes,No,Detached,2.0,3,3,no
+88,2021-05-08,355275.0,Beacon Hill,1926.0,Yes,Yes,Detached,2.0,4,1,no
+89,2021-05-08,778575.0,Avoca,2015.0,Yes,Yes,Detached,2.0,4,2,no
+90,2021-05-08,475455.0,Beacon Hill,1941.0,Yes,Yes,Detached,1.0,4,2,no
+91,2021-05-08,257617.0,Beacon Hill,1938.0,Yes,Yes,Bungalow,1.0,2,1,no
+92,2021-05-08,445966.0,Avoca,1954.0,Yes,No,Detached,2.0,3,2,no
+93,2021-05-08,146221.0,Broomhouse,1979.0,Yes,Yes,Bungalow,1.0,3,1,yes
+94,2021-05-08,295275.0,Broomhouse,1978.0,Yes,Unknown,Detached,1.5,3,1,no
+95,2021-05-08,676223.0,Avoca,2018.0,Yes,Yes,Detached,1.0,3,2,no
+96,2021-05-08,493939.0,Avoca,2006.0,Yes,No,Detached,2.0,3,2,no
+97,2021-05-08,310761.0,Summerston,2001.0,No,Unknown,Duplex,1.5,3,1,yes
+98,2021-05-08,195185.0,Summerston,1943.0,No,No,Bungalow,1.0,3,1,yes
+99,2021-05-08,207545.0,Summerston,1968.0,Yes,Yes,Bungalow,1.0,3,1,no
+100,2021-05-24,463851.0,Brookville,2010.0,Yes,Yes,Detached,1.0,3,2,yes
+101,2021-05-24,545297.0,Brookville,2009.0,Yes,Yes,Detached,2.0,3,2,no
+102,2021-05-24,331333.0,Broomhouse,1973.0,Yes,Yes,Detached,1.0,3,1,no
+103,2021-05-24,356292.0,Broomhouse,1981.0,Yes,Yes,Detached,1.0,2,1,yes
+104,2021-05-24,348109.0,Oak Park,1961.0,Yes,Yes,Detached,1.0,2,1,yes
+105,2021-05-24,303599.0,Oak Park,1962.0,Yes,Yes,Detached,1.0,3,1,yes
+106,2021-05-24,354298.0,Oak Park,1969.0,Yes,Yes,Detached,1.0,3,1,no
+107,2021-05-24,325873.0,Oak Park,1976.0,Yes,No,Detached,1.0,3,1,yes
+108,2021-05-24,326909.0,Oak Park,1967.0,Yes,Unknown,Detached,1.0,3,1,no
+109,2021-05-24,254329.0,Summerston,1922.0,Yes,Yes,Detached,2.0,2,1,no
+110,2021-05-24,389928.0,Oak Park,1969.0,Yes,Yes,Detached,1.0,3,1,no
+111,2021-05-24,430151.0,Oak Park,1981.0,Yes,Yes,Detached,1.5,3,1,no
+112,2021-05-24,333520.0,Summerston,1972.0,Yes,Yes,Detached,1.0,3,1,no
+113,2021-05-24,343517.0,Oak Park,2010.0,No,No,Semi-Detached,1.5,1,1,yes
+114,2021-05-24,275034.0,Oak Park,1983.0,Yes,Yes,Bungalow,1.0,3,1,yes
+115,2021-05-24,482993.0,Avoca,2013.0,Yes,Yes,Detached,2.0,3,2,yes
+116,2021-05-24,483995.0,Avoca,2016.0,Yes,No,Detached,2.0,3,2,no
+117,2021-05-24,725678.0,Brookville,2010.0,Yes,Yes,Detached,2.0,4,2,no
+118,2021-05-24,417836.0,Avoca,2003.0,Yes,Yes,Detached,1.5,3,2,no
+119,2021-05-24,373178.0,Beacon Hill,1932.0,Yes,Yes,Detached,1.0,3,1,no
+120,2021-05-30,442904.0,Avoca,2015.0,Yes,Yes,Detached,2.0,3,2,no
+121,2021-05-30,454297.0,Beacon Hill,1920.0,Yes,Yes,Detached,2.0,3,2,no
+122,2021-05-30,355233.0,Beacon Hill,1932.0,Yes,Yes,Detached,2.0,4,1,no
+123,2021-05-30,330290.0,Rivermount,1953.0,Yes,Yes,Detached,1.0,2,1,no
+124,2021-05-30,431860.0,Oak Park,1976.0,Yes,Yes,Detached,2.0,4,1,no
+125,2021-05-30,441490.0,Porter Square,2012.0,Yes,Unknown,Semi-Detached,2.0,2,2,no
+126,2021-05-30,425040.0,Oak Park,1979.0,Yes,Yes,Detached,1.0,2,1,no
+127,2021-05-30,379832.0,Oak Park,1975.0,Yes,No,Detached,1.0,4,1,no
+128,2021-05-30,348199.0,Oak Park,1968.0,Yes,Yes,Detached,1.0,3,1,yes
+129,2021-05-30,333002.0,Oak Park,1969.0,Yes,Yes,Detached,1.0,2,1,no
+130,2021-05-30,246912.0,Summerston,1938.0,Yes,No,Bungalow,1.0,2,1,no
+131,2021-05-30,409143.0,Summerston,2017.0,Yes,No,Detached,1.0,2,1,yes
+132,2021-05-30,216986.0,Rivermount,1942.0,Yes,No,Bungalow,1.0,3,1,yes
+133,2021-05-30,193533.0,Summerston,1949.0,Yes,No,Terraced,1.0,2,1,yes
+134,2021-05-30,466361.0,Porter Square,2012.0,Yes,Yes,End-of-Terrace,2.0,3,2,no
+135,2021-05-30,473001.0,Porter Square,2019.0,Yes,Yes,Semi-Detached,2.0,2,2,no
+136,2021-05-30,516584.0,Avoca,2017.0,Yes,No,Semi-Detached,1.0,2,2,no
+137,2021-05-30,1095835.0,Avoca,2012.0,Yes,Yes,Detached,1.0,2,2,yes
+138,2021-05-30,784937.0,Avoca,2020.0,Yes,No,Detached,1.0,3,3,no
+139,2021-05-30,644137.0,Porter Square,2009.0,Yes,No,Detached,2.0,3,2,no
+140,2021-06-07,329454.0,Oak Park,1991.0,Yes,Yes,Detached,1.0,3,1,yes
+141,2021-06-07,368593.0,Oak Park,1970.0,Yes,No,Duplex,1.0,5,2,no
+142,2021-06-07,350516.0,Rivermount,1972.0,Yes,Yes,Detached,1.0,2,1,no
+143,2021-06-07,306788.0,Rivermount,1960.0,Yes,Yes,Detached,1.0,2,1,yes
+144,2021-06-07,342123.0,Oak Park,1978.0,No,Unknown,Semi-Detached,1.5,1,1,yes
+145,2021-06-07,314962.0,Oak Park,1980.0,Yes,No,Detached,1.0,3,1,no
+146,2021-06-07,225074.0,Rivermount,1958.0,Yes,No,Bungalow,1.0,3,1,yes
+147,2021-06-07,655526.0,Summerston,1962.0,Yes,Yes,Detached,1.0,4,2,no
+148,2021-06-07,204454.0,Summerston,1954.0,Yes,Unknown,Bungalow,1.0,1,2,yes
+149,2021-06-07,336318.0,Oak Park,1963.0,Yes,Yes,Detached,1.0,3,1,no
+150,2021-06-07,480121.0,Oak Park,1972.0,Yes,No,Detached,1.0,3,1,no
+151,2021-06-07,339343.0,Oak Park,1968.0,Yes,Yes,Detached,1.0,2,1,no
+152,2021-06-07,333136.0,Oak Park,1970.0,Yes,Yes,Detached,1.0,2,1,no
+153,2021-06-07,379606.0,Oak Park,1954.0,Yes,Yes,Detached,2.0,3,1,yes
+154,2021-06-07,442659.0,Oak Park,1977.0,Yes,Yes,Detached,2.0,4,1,no
+155,2021-06-07,234361.0,Oak Park,1970.0,Yes,No,Duplex,1.0,2,2,no
+156,2021-06-07,399797.0,Rivermount,1960.0,Yes,No,Detached,1.0,2,1,yes
+157,2021-06-07,279415.0,Oak Park,1983.0,Yes,Yes,Bungalow,1.0,2,1,yes
+158,2021-06-07,643260.0,Oak Park,1978.0,Yes,Yes,Detached,1.0,3,2,yes
+159,2021-06-07,306495.0,Oak Park,1970.0,Yes,No,Detached,1.0,2,1,yes
+160,2021-06-15,406859.0,Oak Park,1977.0,Yes,No,Detached,1.0,3,1,no
+161,2021-06-15,338999.0,Oak Park,1965.0,Yes,Unknown,Detached,1.0,3,1,yes
+162,2021-06-15,310992.0,Oak Park,1954.0,Yes,Yes,Detached,1.0,3,1,no
+163,2021-06-15,315064.0,Oak Park,1983.0,Yes,Yes,Detached,1.0,3,1,yes
+164,2021-06-15,306509.0,Summerston,1969.0,Yes,Yes,Detached,1.0,3,1,no
+165,2021-06-15,386101.0,Oak Park,1965.0,Yes,Yes,Detached,1.0,4,2,no
+166,2021-06-15,485816.0,Oak Park,1984.0,Yes,Yes,Detached,2.0,4,1,no
+167,2021-06-15,583520.0,Oak Park,1983.0,Yes,Unknown,Detached,2.0,4,2,no
+168,2021-06-15,618192.0,Porter Square,2013.0,Yes,Yes,Detached,2.0,3,2,no
+169,2021-06-15,691198.0,Porter Square,2018.0,Yes,Yes,Detached,1.0,3,2,no
+170,2021-06-15,463332.0,Porter Square,2009.0,Yes,Yes,End-of-Terrace,2.0,2,2,no
+171,2021-06-15,453504.0,Porter Square,2016.0,Yes,Yes,End-of-Terrace,2.0,3,2,no
+172,2021-06-15,462409.0,Avoca,2011.0,Yes,Yes,Detached,1.5,3,2,no
+173,2021-06-15,519927.0,Brookville,2014.0,Yes,No,Detached,1.0,3,2,yes
+174,2021-06-15,984304.0,Avoca,1978.0,Yes,Yes,Detached,2.0,4,2,no
+175,2021-06-15,312609.0,Brookville,2012.0,Yes,Yes,Detached,1.0,3,1,no
+176,2021-06-15,606189.0,Brookville,2015.0,Yes,No,Detached,1.0,3,2,no
+177,2021-06-15,463473.0,Avoca,2007.0,Yes,Yes,Detached,1.0,3,2,no
+178,2021-06-15,463274.0,Porter Square,2011.0,Yes,Yes,Semi-Detached,2.0,2,2,no
+179,2021-06-15,339316.0,Beacon Hill,1941.0,Yes,Yes,Detached,1.0,2,1,yes
+180,2021-07-03,123571.0,Beacon Hill,1939.0,Yes,No,Bungalow,1.0,2,1,no
+181,2021-07-03,587966.0,Brookville,2015.0,Unknown,Yes,Detached,2.0,4,2,yes
+182,2021-07-03,388537.0,Brookville,2008.0,Yes,No,Semi-Detached,1.0,1,1,yes
+183,2021-07-03,269540.0,Oak Park,1971.0,No,No,Bungalow,1.0,3,1,yes
+184,2021-07-03,464366.0,Avoca,2020.0,Yes,Yes,Detached,2.0,3,2,no
+185,2021-07-03,466321.0,Avoca,2009.0,Yes,Yes,Detached,2.0,3,2,yes
+186,2021-07-03,305187.0,Oak Park,1983.0,Yes,Yes,Detached,1.0,3,1,no
+187,2021-07-03,349286.0,Oak Park,1967.0,Yes,No,Detached,1.0,3,1,no
+188,2021-07-03,291091.0,Oak Park,1970.0,Yes,Yes,Detached,1.0,2,1,no
+189,2021-07-03,387507.0,Oak Park,1964.0,Yes,No,Detached,1.0,3,1,yes
+190,2021-07-03,320299.0,Rivermount,1937.0,Yes,No,Detached,1.0,3,1,no
+191,2021-07-03,840765.0,Brookville,2016.0,Yes,No,Detached,1.0,3,2,yes
+192,2021-07-03,323215.0,Brookville,2008.0,Yes,No,Semi-Detached,1.0,1,1,no
+193,2021-07-03,428590.0,Avoca,2004.0,Yes,Yes,Detached,1.5,3,2,no
+194,2021-07-03,365027.0,Oak Park,1973.0,Yes,No,Duplex,1.0,5,2,no
+195,2021-07-03,431441.0,Oak Park,1974.0,Yes,Yes,Detached,1.5,3,1,yes
+196,2021-07-03,574421.0,Avoca,2016.0,Yes,No,Detached,2.0,4,2,no
+197,2021-07-03,444342.0,Oak Park,1974.0,Yes,No,Detached,2.0,4,2,yes
+198,2021-07-03,300643.0,Rivermount,1978.0,Yes,Yes,Detached,1.0,2,1,yes
+199,2021-07-03,291780.0,Rivermount,1917.0,Yes,Yes,Detached,2.0,2,1,no
+200,2021-07-13,416298.0,Rivermount,1902.0,Yes,No,Detached,2.0,3,1,no
+201,2021-07-13,252122.0,Rivermount,1935.0,No,Yes,Bungalow,1.0,2,1,no
+202,2021-07-13,318688.0,Rivermount,1925.0,Yes,No,Detached,2.0,3,2,yes
+203,2021-07-13,387666.0,Rivermount,1928.0,Yes,No,Detached,1.0,4,1,yes
+204,2021-07-13,314026.0,Oak Park,1961.0,Yes,Yes,Detached,1.0,3,1,yes
+205,2021-07-13,375012.0,Oak Park,1973.0,Yes,No,Detached,1.0,2,1,no
+206,2021-07-13,509937.0,Oak Park,1984.0,Yes,Unknown,Detached,2.0,4,1,no
+207,2021-07-13,324193.0,Oak Park,1972.0,Yes,Yes,Detached,1.0,3,1,yes
+208,2021-07-13,358340.0,Beacon Hill,1944.0,Yes,Yes,Detached,1.0,3,1,no
+209,2021-07-13,475925.0,Beacon Hill,1931.0,Yes,Yes,Detached,2.0,3,1,no
+210,2021-07-13,437469.0,Oak Park,1965.0,Yes,Yes,Detached,1.5,3,1,no
+211,2021-07-13,316988.0,Oak Park,1959.0,Yes,Yes,Detached,1.0,3,1,no
+212,2021-07-13,353230.0,Oak Park,1960.0,No,No,Duplex,2.0,4,2,no
+213,2021-07-13,285797.0,Beacon Hill,1956.0,Yes,Yes,Bungalow,1.0,3,1,yes
+214,2021-07-13,494950.0,Beacon Hill,1938.0,Yes,Yes,Detached,2.0,3,2,no
+215,2021-07-13,399894.0,Beacon Hill,1927.0,Yes,Yes,Detached,2.0,3,1,no
+216,2021-07-13,331605.0,Oak Park,1962.0,Yes,No,Detached,1.0,3,1,no
+217,2021-07-13,351940.0,Oak Park,1955.0,Yes,Yes,Detached,1.0,3,1,no
+218,2021-07-13,372883.0,Oak Park,1970.0,Yes,No,Detached,1.0,3,1,yes
+219,2021-07-13,391563.0,Oak Park,1971.0,Yes,Unknown,Detached,1.0,3,1,yes
+220,2021-07-26,274586.0,Rivermount,1932.0,Yes,Yes,Bungalow,1.0,2,1,no
+221,2021-07-26,213787.0,Summerston,1932.0,Yes,No,Bungalow,1.0,2,1,no
+222,2021-07-26,340595.0,Broomhouse,1975.0,Yes,Yes,Detached,1.0,2,1,yes
+223,2021-07-26,372896.0,Broomhouse,1972.0,Yes,Yes,Detached,1.0,3,1,no
+224,2021-07-26,276095.0,Rivermount,1952.0,No,Yes,Bungalow,1.0,2,1,yes
+225,2021-07-26,347690.0,Broomhouse,1978.0,Yes,No,Detached,1.0,3,1,yes
+226,2021-07-26,370461.0,Oak Park,1979.0,Yes,Yes,Detached,1.0,3,2,no
+227,2021-07-26,700177.0,Porter Square,2010.0,Yes,Yes,Detached,2.0,3,2,no
+228,2021-07-26,494607.0,Oak Park,1976.0,Yes,No,Detached,2.0,3,2,no
+229,2021-07-26,675581.0,Porter Square,2018.0,Yes,Yes,Detached,1.0,3,2,yes
+230,2021-07-26,312187.0,Brookville,1989.0,Yes,Unknown,Detached,1.0,3,3,yes
+231,2021-07-26,322889.0,Brookville,1990.0,Yes,Yes,Detached,1.0,2,1,no
+232,2021-07-26,779065.0,Brookville,2014.0,Yes,Yes,Detached,1.0,3,2,no
+233,2021-07-26,671702.0,Porter Square,2013.0,Yes,Yes,Detached,1.0,3,2,no
+234,2021-07-26,359952.0,Oak Park,1966.0,Yes,No,Detached,1.0,3,1,no
+235,2021-07-26,566638.0,Avoca,2020.0,Yes,No,End-of-Terrace,1.0,2,2,no
+236,2021-07-26,613762.0,Brookville,2014.0,Yes,Yes,Detached,2.0,3,2,no
+237,2021-07-26,410807.0,Avoca,2011.0,Yes,Yes,Detached,2.0,3,2,no
+238,2021-07-26,458468.0,Avoca,2006.0,Yes,No,Detached,2.0,3,2,no
+239,2021-07-26,878360.0,Rivermount,1978.0,Yes,No,Detached,2.0,3,3,no
+240,2021-08-02,324526.0,Rivermount,1934.0,Yes,Yes,Detached,2.0,3,1,no
+241,2021-08-02,252163.0,Rivermount,1897.0,No,Yes,Bungalow,1.0,2,1,no
+242,2021-08-02,228481.0,Rivermount,1959.0,Yes,No,Terraced,1.0,2,1,no
+243,2021-08-02,559211.0,Avoca,2018.0,Yes,No,End-of-Terrace,1.0,2,2,yes
+244,2021-08-02,341869.0,Rivermount,1964.0,Yes,No,Detached,1.0,2,1,no
+245,2021-08-02,140231.0,Rivermount,1939.0,No,Yes,Bungalow,1.0,4,2,no
+246,2021-08-02,442950.0,Avoca,2009.0,Yes,No,Detached,2.0,3,2,no
+247,2021-08-02,971768.0,Avoca,2020.0,Yes,Yes,Detached,2.0,4,2,no
+248,2021-08-02,416090.0,Avoca,2000.0,Yes,Yes,Detached,1.5,3,2,no
+249,2021-08-02,772794.0,Rivermount,1887.0,Yes,No,Detached,2.0,4,3,no
+250,2021-08-02,361634.0,Rivermount,1992.0,Yes,No,Duplex,1.5,2,1,yes
+251,2021-08-02,756928.0,Avoca,2017.0,Yes,Unknown,Semi-Detached,1.0,2,2,yes
+252,2021-08-02,284251.0,Broomhouse,1930.0,Yes,Yes,Detached,1.0,3,2,no
+253,2021-08-02,635132.0,Porter Square,2012.0,Yes,Yes,Detached,1.0,3,2,no
+254,2021-08-02,772568.0,Porter Square,2019.0,Yes,No,Detached,1.0,3,2,yes
+255,2021-08-02,139935.0,Rivermount,1939.0,Yes,Yes,Bungalow,1.0,4,2,no
+256,2021-08-02,194269.0,Rivermount,1919.0,Yes,No,Bungalow,1.0,3,1,no
+257,2021-08-02,316083.0,Brookville,2006.0,Yes,No,Detached,1.0,3,1,no
+258,2021-08-02,361450.0,Oak Park,1972.0,Yes,Yes,Detached,1.0,3,1,no
+259,2021-08-02,410988.0,Avoca,2011.0,Yes,Yes,Detached,2.0,3,2,no
+260,2021-08-16,735397.0,Avoca,2014.0,Yes,Yes,Detached,2.0,3,2,no
+261,2021-08-16,321422.0,Broomhouse,1979.0,Yes,Yes,Detached,1.0,3,1,no
+262,2021-08-16,470881.0,Avoca,2019.0,Yes,Yes,Detached,2.0,3,2,yes
+263,2021-08-16,622748.0,Porter Square,2016.0,Yes,Yes,Detached,2.0,3,2,yes
+264,2021-08-16,682420.0,Porter Square,2020.0,Yes,Unknown,Detached,2.0,4,2,no
+265,2021-08-16,844215.0,Porter Square,2016.0,Unknown,Yes,Detached,1.0,3,2,no
+266,2021-08-16,756083.0,Brookville,2014.0,Yes,Yes,Detached,1.0,3,2,yes
+267,2021-08-16,467508.0,Brookville,2007.0,Yes,Yes,Detached,1.0,3,2,yes
+268,2021-08-16,565901.0,Brookville,2010.0,Yes,Yes,Detached,2.0,3,2,no
+269,2021-08-16,423525.0,Avoca,2015.0,Yes,No,Detached,2.0,3,2,no
+270,2021-08-16,358941.0,Oak Park,1970.0,Yes,No,Detached,1.0,3,1,no
+271,2021-08-16,502666.0,Broomhouse,1989.0,Unknown,No,Duplex,1.0,4,2,yes
+272,2021-08-16,280310.0,Rivermount,1957.0,Yes,No,Detached,1.0,2,1,no
+273,2021-08-16,231357.0,Rivermount,1973.0,Yes,No,Terraced,1.0,3,2,no
+274,2021-08-16,508743.0,Brookville,2014.0,Yes,Yes,Detached,1.0,3,2,no
+275,2021-08-16,316942.0,Brookville,2003.0,Yes,No,Detached,1.0,3,1,no
+276,2021-08-16,390672.0,Rivermount,1946.0,Yes,Yes,Detached,1.0,4,2,no
+277,2021-08-16,224909.0,Rivermount,1912.0,No,No,Terraced,2.0,5,2,yes
+278,2021-08-16,522069.0,Brookville,2012.0,Yes,No,Detached,1.0,3,2,no
+279,2021-08-16,474578.0,Brookville,1978.0,Yes,Yes,Detached,2.0,3,2,no
+280,2021-10-04,538811.0,Avoca,2018.0,Yes,No,Semi-Detached,1.0,2,2,no
+281,2021-10-04,395005.0,Rivermount,1938.0,Yes,Yes,Detached,1.0,3,2,no
+282,2021-10-04,386507.0,Rivermount,1924.0,Yes,Yes,Detached,2.0,4,1,no
+283,2021-10-04,874215.0,Avoca,2016.0,Yes,No,Detached,2.0,4,2,no
+284,2021-10-04,488891.0,Brookville,1978.0,Yes,Yes,Detached,1.0,3,2,yes
+285,2021-10-04,603159.0,Brookville,2006.0,Yes,No,Detached,2.0,3,2,yes
+286,2021-10-04,530036.0,Brookville,2020.0,Yes,Yes,Detached,1.0,3,2,no
+287,2021-10-04,728630.0,Oak Park,1982.0,Yes,No,Detached,1.0,4,2,no
+288,2021-10-04,329909.0,Broomhouse,1973.0,Yes,Yes,Detached,1.0,3,1,no
+289,2021-10-04,304100.0,Summerston,1966.0,Yes,Yes,Detached,1.0,3,1,no
+290,2021-10-04,272305.0,Summerston,1931.0,Yes,No,Detached,2.0,3,2,no
+291,2021-10-04,411940.0,Oak Park,1976.0,Yes,No,Detached,1.5,3,2,no
+292,2021-10-04,304259.0,Oak Park,1960.0,Yes,No,Detached,1.0,2,1,no
+293,2021-10-04,304029.0,Oak Park,1976.0,Yes,No,Duplex,1.0,5,2,no
+294,2021-10-04,422905.0,Rivermount,1915.0,No,No,Terraced,1.0,3,2,no
+295,2021-10-04,336182.0,Rivermount,1941.0,Yes,No,Detached,1.0,3,1,no
+296,2021-10-04,327380.0,Beacon Hill,1943.0,Yes,Yes,Detached,1.0,3,1,no
+297,2021-10-04,280210.0,Beacon Hill,1935.0,No,Yes,Bungalow,1.0,2,1,no
+298,2021-10-04,337822.0,Brookville,2015.0,No,No,Semi-Detached,1.0,1,1,no
+299,2021-10-04,453697.0,Brookville,2020.0,Yes,Yes,Detached,2.0,3,2,no
+300,2021-11-24,621822.0,Oak Park,1979.0,Yes,No,Detached,1.0,4,2,no
+301,2021-11-24,317632.0,Oak Park,1962.0,Yes,Yes,Detached,1.0,2,1,yes
+302,2021-11-24,422637.0,Brookville,2016.0,Yes,Yes,Detached,1.0,3,2,no
+303,2021-11-24,915209.0,Porter Square,1978.0,Yes,No,Detached,1.0,3,2,yes
+304,2021-11-24,422911.0,Brookville,1978.0,Yes,Yes,Detached,1.0,3,2,yes
+305,2021-11-24,566533.0,Brookville,2011.0,Yes,Yes,Detached,1.0,3,2,no
+306,2021-11-24,715386.0,Brookville,2006.0,Yes,Yes,Detached,2.0,3,2,no
+307,2021-11-24,457805.0,Porter Square,2011.0,Yes,Yes,End-of-Terrace,2.0,2,2,no
+308,2021-11-24,313890.0,Brookville,1988.0,Yes,Yes,Detached,1.5,2,1,no
+309,2021-11-24,521639.0,Brookville,2017.0,Yes,No,Detached,1.0,4,2,no
+310,2021-11-24,515949.0,Porter Square,2020.0,Unknown,No,Semi-Detached,1.0,1,1,no
+311,2021-11-24,609847.0,Porter Square,2018.0,Yes,Yes,Detached,1.0,3,2,yes
+312,2021-11-24,450121.0,Porter Square,2020.0,Yes,Yes,Detached,1.0,3,2,yes
+313,2021-11-24,744269.0,Porter Square,2009.0,Yes,Unknown,Detached,2.0,4,2,no
+314,2021-11-24,577652.0,Brookville,2007.0,Unknown,Yes,Detached,2.0,3,2,yes
+315,2021-11-24,554762.0,Brookville,2007.0,Yes,Yes,Detached,2.0,3,2,no
+316,2021-11-24,535104.0,Brookville,2015.0,Yes,No,Detached,2.0,4,2,no
+317,2021-11-24,492089.0,Brookville,2018.0,Yes,Yes,Detached,1.0,3,3,no
+318,2021-11-24,577244.0,Brookville,2007.0,Yes,No,Detached,2.0,3,2,no
+319,2021-11-24,446404.0,Avoca,2012.0,Yes,Yes,Detached,1.5,3,2,no
+320,2021-12-19,724835.0,Porter Square,2020.0,Yes,Yes,Detached,2.0,3,2,no
+321,2021-12-19,734419.0,Porter Square,2018.0,Yes,Yes,Detached,2.0,3,2,no
+322,2021-12-19,359086.0,Oak Park,1983.0,Yes,Yes,Detached,1.5,3,1,yes
