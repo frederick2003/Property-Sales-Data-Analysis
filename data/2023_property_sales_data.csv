@@ -1,356 +1,356 @@
 ,Sale Date,Sale Price,Location,Year Built,Garden,Garage,Type,Stories,Bedrooms,Bathrooms,First Time Buyer
-0,Sold 2023-01-01,"€145,057.00",Beacon Hill,1948,No,No, Bungalow, 1-Storey,1,1,Yes
-1,Sold 2023-01-01,"€208,283.00",Summerston,1969,Yes,Yes, Bungalow, 1-Storey,3,1,No
-2,Sold 2023-01-01,"€ 304,038",Beacon Hill,1938,Yes,No, Detached, 1-Storey,2,1,No
-3,Sold 2023-01-01,"€337,216.00",Summerston,1961,Yes,Yes, Detached, 1-Storey,3,1,No
-4,Sold 2023-01-01,"€ 526,551",Avoca,2020,Yes,No, Semi-Detached, 1-Storey,2,2,No
-5,Sold 2023-01-01,"€749,274.00",Avoca,2016,Yes,Yes, Detached, 1-Storey,3,2,No
-6,Sold 2023-01-01,"€806,933.00",Avoca,2012,Yes,No, Detached, 1-Storey,3,2,No
-7,Sold 2023-01-01,"€550,269.00",Brookville,2020,Yes,Yes, Detached, 1-Storey,3,2,Yes
-8,Sold 2023-01-01,"€606,337.00",Brookville,2013,Yes,Yes, Detached, 2-Storey,3,3,Yes
-9,Sold 2023-01-01,"€810,407.00",Brookville,2020,Yes,Yes, Detached, 1-Storey,3,2,No
-10,Sold 2023-01-01,"€356,899.00",Summerston,1977,Yes,No, Detached, 1-Storey,4,1,Yes
-11,Sold 2023-01-01,"€218,285.00",Summerston,1914,???,No, Bungalow, 1-Storey,2,1,Yes
-12,Sold 2023-01-01,"€883,039.00",Summerston,2019,Yes,Yes, Detached, 1-Storey,3,2,No
-13,Sold 2023-01-01,"€ 233,185",Rivermount,1965,Yes,???, Terraced, 1-Storey,2,1,No
-14,Sold 2023-01-01,"€376,060.00",Rivermount,1996,Yes,No, Duplex, 1.5-Storey,2,1,Yes
-15,Sold 2023-01-01,"€515,621.00",Brookville,2019,Yes,Yes, Detached, 1-Storey,2,2,NO
-16,Sold 2023-01-01,"€587,698.00",Brookville,2009,Yes,No, Det., 2-Storey,3,2,YES
-17,Sold 2023-01-01,"€344,923.00",Oak Park,1966,Yes,No, Detached, 1-Storey,3,1,No
-18,Sold 2023-01-01,"€218,947.00",Oak Park,1961,No,No, Duplex, 1-Storey,2,2,No
-19,Sold 2023-01-01,"€437,957.00",Oak Park,1976,Yes,Yes, Detached, 1-Storey,3,1,NO
-20,Sold 2023-02-19,"€528,142.00",Brookville,2017,Yes,No, Detached, 2-Storey,3,2,No
-21,Sold 2023-02-19,"€455,666.00",Brookville,2017,Yes,No, Detached, 2-Storey,3,2,Yes
-22,Sold 2023-02-19,"€387,949.00",Oak Park,1965,Yes,No, Detached, 1-Storey,2,1,No
-23,Sold 2023-02-19,"€684,644.00",Porter Square,2017,Yes,Yes, Detached, 2-Storey,3,2,Yes
-24,Sold 2023-02-19,"€336,343.00",Broomhouse,1976,Yes,Yes, Detached, 1-Storey,4,1,NO
-25,Sold 2023-02-19,"€338,257.00",Broomhouse,1973,Yes,Yes, Detached, 1-Storey,3,1,No
-26,Sold 2023-02-19,"€340,081.00",Broomhouse,1982,Yes,No, Duplex, 1-Storey,4,2,No
-27,Sold 2023-02-19,"€309,622.00",Broomhouse,1982,Yes,No, Detached, 1-Storey,3,1,Yes
-28,Sold 2023-02-19,"€302,981.00",Broomhouse,1977,Yes,Yes, Detached, 1-Storey,3,1,No
-29,Sold 2023-02-19,"€525,395.00",Brookville,2010,Yes,No, Detached, 2-Storey,3,2,No
-30,Sold 2023-02-19,"€457,365.00",Avoca,2017,Yes,No, Detached, 2-Storey,3,2,Yes
-31,Sold 2023-02-19,"€391,464.00",Avoca,Unknown,Yes,Yes, Detached, 2-Storey,3,2,No
-32,Sold 2023-02-19,"€876,231.00",Avoca,2018,Yes,No, Detached, 2-Storey,4,2,No
-33,Sold 2023-02-19,"€547,705.00",Avoca,2020,Yes,No, Detached, 1-Storey,3,2,No
-34,Sold 2023-02-19,"€485,773.00",Avoca,2014,Yes,Yes, Detached, 1.5-Storey,3,2,No
-35,Sold 2023-02-19,"€857,337.00",Avoca,2012,No,No, Detached, 1-Storey,2,2,No
-36,Sold 2023-02-19,"€204,319.00",Summerston,1952,Yes,Yes, Bungalow, 1-Storey,1,1,Yes
-37,Sold 2023-02-19,"€251,455.00",Summerston,1950,Yes,Yes, Bungalow, 1-Storey,4,2,Yes
-38,Sold 2023-02-19,"€608,976.00",Brookville,2014,Yes,Yes, Detached, 1-Storey,3,2,No
-39,Sold 2023-02-19,"€437,345.00",Summerston,1976,Yes,No, Det., 1-Storey,3,1,No
-40,Sold 2023-03-15,"€359,626.00",Summerston,1966,Yes,Yes, Det., 1-Storey,3,1,Yes
-41,Sold 2023-03-15,"€360,088.00",Avoca,1955,Yes,???, Detached, 1-Storey,2,2,NO
-42,Sold 2023-03-15,"€764,039.00",Avoca,2016,Yes,No, Detached, 1-Storey,3,2,No
-43,Sold 2023-03-15,"€519,491.00",Avoca,2004,Yes,No, Detached, 2-Storey,3,2,No
-44,Sold 2023-03-15,"€ 305,853",Brookville,1984,Yes,Yes, Detached, 1.5-Storey,2,1,NO
-45,Sold 2023-03-15,"€598,650.00",Porter Square,2018,Yes,Yes, Detached, 1-Storey,3,2,Yes
-46,Sold 2023-03-15,"€452,971.00",Porter Square,2011,Yes,Yes, Semi-Detached, 2-Storey,3,2,No
-47,Sold 2023-03-15,"€749,205.00",Avoca,2009,Yes,Yes, Detached, 1-Storey,3,2,No
-48,Sold 2023-03-15,"€457,144.00",Avoca,2006,Yes,Yes, Detached, 2-Storey,3,2,No
-49,Sold 2023-03-15,"€761,633.00",Porter Square,2020,Yes,Yes, Detached, 2-Storey,3,2,Yes
-50,Sold 2023-03-15,"€317,069.00",Oak Park,1979,???,No, Duplex, 1-Storey,4,2,No
-51,Sold 2023-03-15,"€635,452.00",Avoca,2012,Yes,No, Detached, 2-Storey,4,2,No
-52,Sold 2023-03-15,"€444,837.00",Oak Park,1975,Yes,???, Detached, 1-Storey,2,1,No
-53,Sold 2023-03-15,"€358,834.00",Oak Park,1970,Yes,Yes, Detached, 1-Storey,3,2,Yes
-54,Sold 2023-03-15,"€278,535.00",Rivermount,1959,Yes,Yes, Bungalow, 1-Storey,2,1,Yes
-55,Sold 2023-03-15,"€365,873.00",Beacon Hill,1948,Yes,Yes, Detached, 1-Storey,3,1,NO
-56,Sold 2023-03-15,"€ 672,347",Rivermount,1927,Yes,Yes, Det., 1-Storey,5,2,Yes
-57,Sold 2023-03-15,"€1,599,199.00",Avoca,2020,Yes,No, Detached, 1-Storey,2,2,No
-58,Sold 2023-03-15,"€431,933.00",Avoca,2019,Yes,Yes, Detached, 2-Storey,4,2,NO
-59,Sold 2023-03-15,"€ 246,561",Summerston,1957,Yes,Yes, Bungalow, 1-Storey,4,2,Yes
-60,Sold 2023-04-11,"€488,814.00",Avoca,2005,Yes,Yes, Detached, 2-Storey,3,2,Yes
-61,Sold 2023-04-11,"€502,896.00",Brookville,2016,Yes,Yes, Det., 2-Storey,3,2,Yes
-62,Sold 2023-04-11,"€ 348,014",Summerston,1968,Yes,Yes, Detached, 1-Storey,3,1,Yes
-63,Sold 2023-04-11,"€ 644,584",Porter Square,2018,???,Yes, Detached, 1-Storey,3,2,No
-64,Sold 2023-04-11,"€278,037.00",Broomhouse,1929,Yes,Yes, Detached, 1-Storey,4,2,No
-65,Sold 2023-04-11,"€549,189.00",Porter Square,2020,Yes,Yes, Detached, 2-Storey,3,3,No
-66,Sold 2023-04-11,"€347,516.00",Broomhouse,1994,Yes,No, Detached, 1.5-Storey,2,1,No
-67,Sold 2023-04-11,"€480,146.00",Porter Square,2004,Yes,Yes, End-of-Terrace, 2-Storey,3,2,Yes
-68,Sold 2023-04-11,"€761,735.00",Porter Square,2020,Yes,Yes, Detached, 2-Storey,3,2,No
-69,Sold 2023-04-11,"€382,821.00",Broomhouse,1981,Yes,Yes, Detached, 1-Storey,2,1,No
-70,Sold 2023-04-11,"€361,406.00",Brookville,2012,Yes,No, Semi-Detached, 1-Storey,1,1,Yes
-71,Sold 2023-04-11,"€344,976.00",Brookville,1984,Yes,Yes, Detached, 1.5-Storey,2,1,No
-72,Sold 2023-04-11,"€382,163.00",Brookville,1998,???,Yes, Det., 1.5-Storey,3,1,No
-73,Sold 2023-04-11,"€566,020.00",Brookville,2008,Yes,No, Detached, 2-Storey,3,2,No
-74,Sold 2023-04-11,"€514,683.00",Brookville,2020,Yes,No, Detached, 1-Storey,3,2,Yes
-75,Sold 2023-04-11,"€565,631.00",Brookville,2020,Yes,Yes, Detached, 1-Storey,2,2,NO
-76,Sold 2023-04-11,"€474,448.00",Avoca,1995,Yes,Yes, Detached, 1-Storey,3,2,No
-77,Sold 2023-04-11,"€514,194.00",Avoca,2007,Yes,Yes, Detached, 2-Storey,3,2,No
-78,Sold 2023-04-11,"€552,712.00",Avoca,2019,Yes,No, End-of-Terrace, 1-Storey,2,2,No
-79,Sold 2023-04-11,"€272,506.00",Rivermount,1925,Yes,No, Detached, 2-Storey,3,2,No
-80,Sold 2023-05-03,"€279,187.00",Rivermount,Unknown,Yes,Yes, Detached, 2-Storey,2,1,No
-81,Sold 2023-05-03,"€218,345.00",Rivermount,1915,Yes,Yes, Detached, 2-Storey,5,2,Yes
-82,Sold 2023-05-03,"€644,506.00",Brookville,2019,Yes,No, Detached, 1-Storey,2,2,No
-83,Sold 2023-05-03,"€361,900.00",Brookville,2015,Yes,No, Semi-Detached, 1-Storey,1,1,No
-84,Sold 2023-05-03,"€ 374,331",Brookville,2004,Yes,No, Detached, 1.5-Storey,2,1,No
-85,Sold 2023-05-03,"€275,718.00",Beacon Hill,1928,No,Yes, Bungalow, 1-Storey,2,1,No
-86,Sold 2023-05-03,"€353,776.00",Beacon Hill,1933,Yes,Yes, Detached, 1-Storey,2,1,Yes
-87,Sold 2023-05-03,"€862,049.00",Brookville,2012,Yes,No, Detached, 2-Storey,3,2,No
-88,Sold 2023-05-03,"€607,942.00",Avoca,2006,No,No, Detached, 2-Storey,4,2,No
-89,Sold 2023-05-03,"€468,711.00",Avoca,2005,Yes,Yes, Detached, 2-Storey,3,2,Yes
-90,Sold 2023-05-03,"€341,299.00",Beacon Hill,1951,Yes,Yes, Detached, 1-Storey,4,1,No
-91,Sold 2023-05-03,"€92,463.00",Beacon Hill,1952,Yes,No, Bungalow, 1-Storey,1,1,NO
-92,Sold 2023-05-03,"€195,186.00",Beacon Hill,Unknown,Yes,No, Bungalow, 1-Storey,2,1,No
-93,Sold 2023-05-03,"€333,429.00",Beacon Hill,1942,Yes,No, Detached, 1-Storey,3,1,No
-94,Sold 2023-05-03,"€274,118.00",Beacon Hill,1947,Yes,Yes, Bungalow, 1-Storey,2,1,NO
-95,Sold 2023-05-03,"€599,552.00",Beacon Hill,1935,Yes,No, Detached, 2-Storey,3,1,No
-96,Sold 2023-05-03,"€722,663.00",Rivermount,1892,Yes,No, Detached, 2-Storey,4,1,No
-97,Sold 2023-05-03,"€966,293.00",Avoca,2020,Yes,Yes, Detached, 1-Storey,3,2,NO
-98,Sold 2023-05-03,"€ 453,851",Avoca,2004,Yes,Yes, Detached, 2-Storey,3,2,No
-99,Sold 2023-05-03,"€747,553.00",Avoca,2020,Yes,Yes, Detached, 2-Storey,3,2,No
-100,Sold 2023-05-14,"€384,659.00",Summerston,1973,Yes,Yes, Detached, 1-Storey,3,1,Yes
-101,Sold 2023-05-14,"€450,011.00",Avoca,2020,Yes,???, Detached, 2-Storey,4,2,No
-102,Sold 2023-05-14,"€475,628.00",Avoca,2002,Yes,Yes, Detached, 1-Storey,3,2,No
-103,Sold 2023-05-14,"€441,814.00",Avoca,Unknown,Yes,Yes, Detached, 1.5-Storey,3,2,Yes
-104,Sold 2023-05-14,"€356,058.00",Brookville,Unknown,Yes,???, Det., 1-Storey,3,1,No
-105,Sold 2023-05-14,"€252,004.00",Summerston,c1950,No,Yes, Bungalow, 1-Storey,2,1,Yes
-106,Sold 2023-05-14,"€1,168,137.00",Avoca,2020,Yes,Yes, Detached, 2-Storey,3,2,No
-107,Sold 2023-05-14,"€639,172.00",Summerston,1947,Yes,???, Detached, 2-Storey,4,2,No
-108,Sold 2023-05-14,"€273,525.00",Summerston,1961,No,Yes, Bungalow, 1-Storey,2,2,No
-109,Sold 2023-05-14,"€604,010.00",Avoca,2011,Yes,Yes, Detached, 2-Storey,3,2,Yes
-110,Sold 2023-05-14,"€305,861.00",Beacon Hill,1947,Yes,No, Terraced, 1-Storey,2,1,NO
-111,Sold 2023-05-14,"€338,202.00",Beacon Hill,1955,Yes,Yes, Detached, 1-Storey,2,1,Yes
-112,Sold 2023-05-14,"€298,602.00",Beacon Hill,1937,Yes,No, Detached, 1-Storey,3,1,Yes
-113,Sold 2023-05-14,"€277,773.00",Rivermount,c1936,Yes,Yes, Bungalow, 1-Storey,2,1,No
-114,Sold 2023-05-14,"€463,383.00",Oak Park,1974,Yes,???, Detached, 1.5-Storey,3,1,No
-115,Sold 2023-05-14,"€371,306.00",Oak Park,1977,Yes,Yes, Detached, 2-Storey,4,2,No
-116,Sold 2023-05-14,"€356,076.00",Oak Park,1962,Yes,Yes, Detached, 1-Storey,3,1,Yes
-117,Sold 2023-05-14,"€339,709.00",Oak Park,1960,Yes,Yes, Detached, 1-Storey,2,1,No
-118,Sold 2023-05-14,"€275,528.00",Beacon Hill,1928,Yes,Yes, Bungalow, 1-Storey,2,1,NO
-119,Sold 2023-05-14,"€375,433.00",Porter Square,Unknown,Yes,Yes, Semi-Detached, 2-Storey,2,2,No
-120,Sold 2023-05-30,"€398,484.00",Oak Park,1969,Yes,Yes, Detached, 1-Storey,2,1,No
-121,Sold 2023-05-30,"€681,737.00",Porter Square,2017,Yes,Yes, Detached, 2-Storey,3,2,NO
-122,Sold 2023-05-30,"€260,750.00",Broomhouse,1947,No,Yes, Bungalow, 1-Storey,2,1,No
-123,Sold 2023-05-30,"€359,235.00",Broomhouse,1975,Yes,No, Detached, 1-Storey,3,1,No
-124,Sold 2023-05-30,"€543,068.00",Brookville,2011,Yes,Yes, Detached, 1-Storey,3,2,No
-125,Sold 2023-05-30,"€388,236.00",Broomhouse,1975,Yes,No, Detached, 1-Storey,3,3,No
-126,Sold 2023-05-30,"€ 373,011",Brookville,2015,Yes,No, Semi-Detached, 1-Storey,1,1,Yes
-127,Sold 2023-05-30,"€573,016.00",Brookville,2002,Yes,Yes, Detached, 2-Storey,4,2,No
-128,Sold 2023-05-30,"€333,721.00",Broomhouse,1979,Yes,No, Detached, 1-Storey,3,1,Yes
-129,Sold 2023-05-30,"€289,014.00",Oak Park,1992,Yes,Yes, Det., 1-Storey,3,1,Yes
-130,Sold 2023-05-30,"€403,435.00",Oak Park,1970,Yes,Yes, Detached, 1-Storey,3,1,No
-131,Sold 2023-05-30,"€283,300.00",Oak Park,1985,Yes,No, Bungalow, 1-Storey,3,1,No
-132,Sold 2023-05-30,"€1,081,888.00",Avoca,2015,Yes,Yes, Detached, 1-Storey,3,2,No
-133,Sold 2023-05-30,"€200,784.00",Oak Park,1961,No,No, Duplex, 1-Storey,2,2,No
-134,Sold 2023-05-30,"€ 512,685",Oak Park,1980,Yes,Yes, Detached, 2-Storey,4,2,No
-135,Sold 2023-05-30,"€404,180.00",Oak Park,1982,Yes,No, Detached, 1.5-Storey,3,3,No
-136,Sold 2023-05-30,"€343,850.00",Summerston,2019,No,Yes, Semi-Detached, 2-Storey,3,2,Yes
-137,Sold 2023-05-30,"€494,756.00",Brookville,2013,Yes,Yes, Detached, 1-Storey,3,2,No
-138,Sold 2023-05-30,"€304,713.00",Summerston,Unknown,Yes,Yes, Detached, 1-Storey,4,2,No
-139,Sold 2023-05-30,"€300,872.00",Summerston,1959,Yes,No, Detached, 1-Storey,2,1,Yes
-140,Sold 2023-06-11,"€246,607.00",Summerston,1972,Yes,???, Duplex, 1-Storey,4,2,No
-141,Sold 2023-06-11,"€294,853.00",Summerston,Unknown,Yes,No, Detached, 1-Storey,2,1,No
-142,Sold 2023-06-11,"€398,497.00",Summerston,2020,Yes,No, Semi-Detached, 1.5-Storey,2,1,Yes
-143,Sold 2023-06-11,"€307,180.00",Summerston,1971,Yes,Yes, Detached, 1-Storey,3,1,No
-144,Sold 2023-06-11,"€290,438.00",Rivermount,1900,Yes,No, Detached, 2-Storey,5,2,NO
-145,Sold 2023-06-11,"€211,114.00",Rivermount,c1922,Yes,Yes, Bungalow, 1-Storey,2,1,Yes
-146,Sold 2023-06-11,"€350,608.00",Rivermount,1921,Yes,Yes, Detached, 1-Storey,4,2,NO
-147,Sold 2023-06-11,"€252,540.00",Rivermount,1967,No,Yes, Bungalow, 1-Storey,2,1,No
-148,Sold 2023-06-11,"€435,506.00",Rivermount,c1941,Yes,Yes, Detached, 2-Storey,3,1,No
-149,Sold 2023-06-11,"€292,427.00",Rivermount,1932,Yes,No, Detached, 1-Storey,2,1,Yes
-150,Sold 2023-06-11,"€232,532.00",Oak Park,1962,No,No, Duplex, 1-Storey,2,2,No
-151,Sold 2023-06-11,"€468,732.00",Brookville,2013,Yes,Yes, Detached, 1-Storey,3,2,No
-152,Sold 2023-06-11,"€972,812.00",Avoca,2016,Yes,No, Detached, 2-Storey,4,2,No
-153,Sold 2023-06-11,"€265,282.00",Oak Park,1932,Yes,No, Bungalow, 1-Storey,4,2,No
-154,Sold 2023-06-11,"€303,462.00",Oak Park,1982,Yes,???, Detached, 1-Storey,2,1,Yes
-155,Sold 2023-06-11,"€572,209.00",Avoca,2011,Yes,Yes, Detached, 2-Storey,3,2,No
-156,Sold 2023-06-11,"€429,171.00",Broomhouse,1976,Yes,Yes, Detached, 2-Storey,4,1,No
-157,Sold 2023-06-11,"€371,750.00",Broomhouse,1983,Yes,No, Detached, 1-Storey,3,1,No
-158,Sold 2023-06-11,"€389,690.00",Broomhouse,1988,Yes,Yes, Detached, 1-Storey,3,2,Yes
-159,Sold 2023-06-11,"€433,713.00",Avoca,2015,Yes,No, Detached, 2-Storey,3,2,No
-160,Sold 2023-06-20,"€1,281,082.00",Avoca,2020,Yes,Yes, Detached, 2-Storey,3,2,No
-161,Sold 2023-06-20,"€540,042.00",Brookville,2008,Yes,Yes, Detached, 1-Storey,3,2,No
-162,Sold 2023-06-20,"€330,629.00",Oak Park,1968,Yes,Yes, Detached, 1-Storey,2,1,Yes
-163,Sold 2023-06-20,"€486,656.00",Brookville,2010,Yes,Yes, Detached, 1-Storey,3,3,Yes
-164,Sold 2023-06-20,"€455,886.00",Avoca,2008,Yes,Yes, Detached, 2-Storey,3,2,Yes
-165,Sold 2023-06-20,"€552,041.00",Brookville,2013,Yes,No, Detached, 2-Storey,3,2,No
-166,Sold 2023-06-20,"€637,108.00",Brookville,2013,Yes,???, Detached, 1-Storey,3,2,Yes
-167,Sold 2023-06-20,"€ 611,051",Brookville,2004,Yes,No, Detached, 1-Storey,3,2,No
-168,Sold 2023-06-20,"€ 624,496",Brookville,2007,Yes,No, Detached, 1-Storey,3,2,NO
-169,Sold 2023-06-20,"€ 602,024",Brookville,2014,Yes,Yes, Detached, 2-Storey,3,2,No
-170,Sold 2023-06-20,"€457,697.00",Avoca,2017,Yes,Yes, Detached, 2-Storey,3,2,No
-171,Sold 2023-06-20,"€770,552.00",Brookville,2008,Yes,Yes, Detached, 2-Storey,3,3,No
-172,Sold 2023-06-20,"€376,031.00",Brookville,2006,Yes,No, Detached, 1-Storey,3,1,No
-173,Sold 2023-06-20,"€789,037.00",Avoca,Unknown,Yes,No, Semi-Detached, 1-Storey,2,2,Yes
-174,Sold 2023-06-20,"€650,212.00",Avoca,Unknown,Yes,Yes, Detached, 2-Storey,3,2,No
-175,Sold 2023-06-20,"€477,322.00",Avoca,2011,Yes,No, Detached, 2-Storey,3,2,No
-176,Sold 2023-06-20,"€472,062.00",Avoca,2012,Yes,Yes, Detached, 2-Storey,3,2,No
-177,Sold 2023-06-20,"€403,617.00",Rivermount,c1927,Yes,Yes, Det., 2-Storey,4,1,No
-178,Sold 2023-06-20,"€276,591.00",Oak Park,1963,Yes,Yes, Bungalow, 1-Storey,2,1,NO
-179,Sold 2023-06-20,"€431,682.00",Oak Park,1963,Yes,???, Detached, 1-Storey,2,1,No
-180,Sold 2023-06-30,"€560,198.00",Porter Square,2020,Yes,Yes, Detached, 2-Storey,3,2,No
-181,Sold 2023-06-30,"€737,240.00",Porter Square,2012,Yes,Yes, Detached, 1-Storey,3,2,Yes
-182,Sold 2023-06-30,"€ 318,771",Oak Park,1971,Yes,Yes, Detached, 1-Storey,3,1,NO
-183,Sold 2023-06-30,"€340,965.00",Summerston,1966,Yes,Yes, Detached, 1-Storey,3,1,NO
-184,Sold 2023-06-30,"€251,868.00",Summerston,1934,No,No, Bungalow, 1-Storey,2,1,Yes
-185,Sold 2023-06-30,"€694,776.00",Avoca,2019,Yes,Yes, Detached, 1-Storey,3,2,Yes
-186,Sold 2023-06-30,"€ 318,466",Oak Park,1982,???,Yes, Detached, 1-Storey,3,1,No
-187,Sold 2023-06-30,"€332,252.00",Oak Park,1971,Yes,Yes, Detached, 1-Storey,2,1,No
-188,Sold 2023-06-30,"€399,139.00",Oak Park,1979,Yes,Yes, Detached, 1-Storey,3,3,No
-189,Sold 2023-06-30,"€276,773.00",Oak Park,1939,Yes,???, Bungalow, 1-Storey,4,2,No
-190,Sold 2023-06-30,"€328,311.00",Beacon Hill,1948,Yes,Yes, Detached, 1-Storey,3,1,Yes
-191,Sold 2023-06-30,"€299,714.00",Oak Park,1977,Yes,Yes, Detached, 1-Storey,2,1,YES
-192,Sold 2023-06-30,"€387,773.00",Summerston,1975,Yes,No, Detached, 1-Storey,4,2,Yes
-193,Sold 2023-06-30,"€210,405.00",Summerston,1968,Yes,Yes, Bungalow, 1-Storey,2,1,No
-194,Sold 2023-06-30,"€261,234.00",Summerston,1937,Yes,Yes, Detached, 2-Storey,3,2,No
-195,Sold 2023-06-30,"€623,788.00",Summerston,1954,Yes,Yes, Detached, 1-Storey,4,2,No
-196,Sold 2023-06-30,"€370,422.00",Rivermount,1932,Yes,Yes, Detached, 2-Storey,3,1,Yes
-197,Sold 2023-06-30,"€318,596.00",Rivermount,1964,Yes,No, Duplex, 2-Storey,4,2,Yes
-198,Sold 2023-06-30,"€505,384.00",Brookville,2008,Yes,Yes, Detached, 2-Storey,2,2,NO
-199,Sold 2023-06-30,"€927,044.00",Avoca,2020,Yes,Yes, Detached, 2-Storey,3,2,No
-200,Sold 2023-07-10,"€335,462.00",Broomhouse,1980,???,Yes, Detached, 1-Storey,3,1,No
-201,Sold 2023-07-10,"€ 279,307",Oak Park,1980,No,No, Bungalow, 1-Storey,2,1,No
-202,Sold 2023-07-10,"€326,620.00",Broomhouse,1970,No,No, Terraced, 1-Storey,3,1,Yes
-203,Sold 2023-07-10,"€332,616.00",Broomhouse,1980,Yes,No, Detached, 1-Storey,4,2,Yes
-204,Sold 2023-07-10,"€453,413.00",Broomhouse,1990,Yes,Yes, Detached, 2-Storey,3,2,No
-205,Sold 2023-07-10,"€315,982.00",Broomhouse,1972,Yes,Yes, Detached, 1-Storey,3,1,No
-206,Sold 2023-07-10,"€527,669.00",Summerston,2015,Yes,Yes, Detached, 1.5-Storey,4,3,Yes
-207,Sold 2023-07-10,"€203,251.00",Summerston,1964,Yes,Yes, Bungalow, 1-Storey,2,1,No
-208,Sold 2023-07-10,"€297,962.00",Summerston,1953,???,Yes, Detached, 1-Storey,3,2,No
-209,Sold 2023-07-10,"€348,196.00",Oak Park,Unknown,Yes,No, Detached, 1-Storey,3,1,No
-210,Sold 2023-07-10,"€957,281.00",Oak Park,1984,Yes,Yes, Detached, 1.5-Storey,4,2,No
-211,Sold 2023-07-10,"€517,091.00",Brookville,Unknown,Yes,No, Detached, 2-Storey,3,2,No
-212,Sold 2023-07-10,"€415,379.00",Oak Park,1975,Yes,Yes, Detached, 1-Storey,3,1,No
-213,Sold 2023-07-10,"€340,774.00",Oak Park,1971,Yes,No, Detached, 1-Storey,3,1,No
-214,Sold 2023-07-10,"€343,038.00",Brookville,2013,Yes,No, Semi-Detached, 1-Storey,1,1,No
-215,Sold 2023-07-10,"€613,974.00",Brookville,2016,Yes,Yes, Detached, 2-Storey,4,2,Yes
-216,Sold 2023-07-10,"€351,780.00",Brookville,1990,Yes,Yes, Det., 1-Storey,3,1,No
-217,Sold 2023-07-10,"€252,067.00",Oak Park,1979,No,No, Bungalow, 1-Storey,3,1,Yes
-218,Sold 2023-07-10,"€314,131.00",Broomhouse,1983,Yes,Yes, Detached, 1-Storey,3,1,Yes
-219,Sold 2023-07-10,"€362,818.00",Broomhouse,1969,Yes,No, Detached, 1-Storey,3,1,No
-220,Sold 20 July 2023,"€348,043.00",Broomhouse,1989,Yes,Yes, Detached, 1-Storey,3,1,No
-221,Sold 20 July 2023,"€618,131.00",Avoca,2019,Yes,No, End-of-Terrace, 1-Storey,2,2,Yes
-222,Sold 20 July 2023,"€573,392.00",Beacon Hill,1928,Yes,Yes, Det., 2-Storey,5,2,No
-223,Sold 20 July 2023,"€416,346.00",Summerston,1989,Yes,Yes, Detached, 2-Storey,3,1,Yes
-224,Sold 20 July 2023,"€534,784.00",Summerston,2019,Yes,Yes, Detached, 1.5-Storey,4,3,Yes
-225,Sold 20 July 2023,"€686,698.00",Avoca,2016,Yes,Yes, Detached, 1-Storey,3,2,No
-226,Sold 20 July 2023,"€498,644.00",Avoca,2016,Yes,Yes, Detached, 2-Storey,3,2,No
-227,Sold 20 July 2023,"€277,544.00",Beacon Hill,c1940,Yes,Yes, Detached, 1-Storey,2,2,No
-228,Sold 20 July 2023,"€1,023,388.00",Avoca,2020,Yes,Yes, Detached, 2-Storey,3,2,No
-229,Sold 20 July 2023,"€935,043.00",Avoca,2018,Yes,Yes, Detached, 1-Storey,3,2,No
-230,Sold 20 July 2023,"€810,328.00",Avoca,2017,Yes,No, Detached, 1-Storey,3,2,Yes
-231,Sold 20 July 2023,"€464,228.00",Avoca,1996,Yes,Yes, Detached, 2-Storey,3,2,No
-232,Sold 20 July 2023,"€ 525,008",Beacon Hill,1933,Yes,No, Detached, 1-Storey,3,2,No
-233,Sold 20 July 2023,"€ 342,765",Beacon Hill,1947,Yes,No, Detached, 1-Storey,3,1,No
-234,Sold 20 July 2023,"€196,931.00",Beacon Hill,1945,Yes,No, Bungalow, 1-Storey,3,1,Yes
-235,Sold 20 July 2023,"€1,017,385.00",Avoca,2017,Yes,No, Detached, 1-Storey,3,2,No
-236,Sold 20 July 2023,"€454,716.00",Avoca,2015,Yes,No, End-of-Terrace, 2-Storey,2,2,No
-237,Sold 20 July 2023,"€1,097,789.00",Avoca,2018,Yes,Yes, Detached, 1-Storey,3,2,No
-238,Sold 20 July 2023,"€212,171.00",Beacon Hill,1942,No,No, Bungalow, 1-Storey,2,1,No
-239,Sold 20 July 2023,"€278,852.00",Beacon Hill,1962,Yes,Yes, Bungalow, 1-Storey,3,1,Yes
-240,Sold 2023-07-27,"€454,462.00",Avoca,2004,Yes,Yes, Detached, 1-Storey,3,2,No
-241,Sold 2023-07-27,"€458,201.00",Avoca,2004,Yes,Yes, Detached, 1.5-Storey,3,2,No
-242,Sold 2023-07-27,"€927,011.00",Avoca,2020,Yes,Yes, Detached, 2-Storey,3,2,No
-243,Sold 2023-07-27,"€430,910.00",Avoca,2018,Yes,No, Detached, 2-Storey,3,2,No
-244,Sold 2023-07-27,"€504,939.00",Avoca,2007,Yes,Yes, Detached, 2-Storey,3,2,No
-245,Sold 2023-07-27,"€659,022.00",Avoca,2012,Yes,Yes, Detached, 2-Storey,3,2,No
-246,Sold 2023-07-27,"€692,739.00",Avoca,2018,Yes,No, Detached, 1-Storey,3,2,No
-247,Sold 2023-07-27,"€381,408.00",Oak Park,1962,Yes,Yes, Detached, 1-Storey,3,1,Yes
-248,Sold 2023-07-27,"€325,522.00",Oak Park,1983,Yes,Yes, Detached, 1-Storey,3,1,No
-249,Sold 2023-07-27,"€406,503.00",Oak Park,1981,Yes,No, Detached, 1-Storey,3,1,Yes
-250,Sold 2023-07-27,"€353,022.00",Broomhouse,1994,Yes,Yes, Detached, 1.5-Storey,2,1,Yes
-251,Sold 2023-07-27,"€531,470.00",Oak Park,1981,Yes,No, Duplex, 2-Storey,5,2,NO
-252,Sold 2023-07-27,"€286,794.00",Summerston,1953,Yes,No, Detached, 1-Storey,2,1,No
-253,Sold 2023-07-27,"€343,872.00",Brookville,1984,Yes,Yes, Detached, 1-Storey,3,1,No
-254,Sold 2023-07-27,"€356,822.00",Summerston,1978,Yes,No, Detached, 1-Storey,2,1,Yes
-255,Sold 2023-07-27,"€348,123.00",Rivermount,1928,Yes,Yes, Detached, 1-Storey,3,2,No
-256,Sold 2023-07-27,"€ 520,513",Avoca,2017,Yes,No, End-of-Terrace, 1-Storey,1,2,Yes
-257,Sold 2023-07-27,"€277,857.00",Oak Park,1974,Yes,Yes, Bungalow, 1-Storey,2,1,No
-258,Sold 2023-07-27,"€317,400.00",Brookville,1990,Yes,No, Detached, 1-Storey,3,2,Yes
-259,Sold 2023-07-27,"€576,346.00",Brookville,2016,Yes,Yes, Detached, 1-Storey,3,2,Yes
-260,Sold 2023-08-24,"€385,796.00",Oak Park,1982,Yes,Yes, Detached, 1-Storey,3,1,No
-261,Sold 2023-08-24,"€529,403.00",Brookville,2015,Yes,Yes, Detached, 2-Storey,2,2,No
-262,Sold 2023-08-24,"€579,351.00",Brookville,2014,Yes,Yes, Det., 1-Storey,4,2,Yes
-263,Sold 2023-08-24,"€448,527.00",Oak Park,1959,Yes,Yes, Detached, 1-Storey,2,1,No
-264,Sold 2023-08-24,"€503,315.00",Brookville,2016,Yes,Yes, Detached, 1-Storey,3,2,Yes
-265,Sold 2023-08-24,"€358,804.00",Brookville,2007,Yes,Yes, Detached, 1-Storey,3,1,No
-266,Sold 2023-08-24,"€411,905.00",Oak Park,1976,Yes,Yes, Detached, 1.5-Storey,3,1,No
-267,Sold 2023-08-24,"€622,778.00",Brookville,2009,Yes,Yes, Detached, 2-Storey,3,2,Yes
-268,Sold 2023-08-24,"€485,119.00",Brookville,2017,Yes,???, Detached, 2-Storey,3,2,Yes
-269,Sold 2023-08-24,"€554,129.00",Brookville,2009,Yes,No, Det., 1-Storey,3,3,No
-270,Sold 2023-08-24,"€380,375.00",Brookville,2020,Yes,No, Semi-Detached, 1-Storey,1,2,No
-271,Sold 2023-08-24,"€314,956.00",Brookville,1984,Yes,No, Detached, 1-Storey,2,1,No
-272,Sold 2023-08-24,"€313,164.00",Oak Park,1986,Yes,???, Duplex, 2-Storey,4,2,No
-273,Sold 2023-08-24,"€ 420,047",Oak Park,1972,Yes,No, Detached, 1-Storey,3,1,No
-274,Sold 2023-08-24,"€348,250.00",Rivermount,1958,Yes,Yes, Detached, 2-Storey,3,1,No
-275,Sold 2023-08-24,"€ 359,040",Broomhouse,1974,Yes,Yes, Detached, 1-Storey,3,1,No
-276,Sold 2023-08-24,"€342,545.00",Oak Park,1961,Yes,???, Detached, 1-Storey,3,1,No
-277,Sold 2023-08-24,"€319,509.00",Rivermount,1902,Yes,Yes, Detached, 1-Storey,2,1,No
-278,Sold 2023-08-24,"€348,875.00",Rivermount,1964,Yes,Yes, Detached, 2-Storey,3,1,No
-279,Sold 2023-08-24,"€226,553.00",Rivermount,1941,Yes,???, Bungalow, 1-Storey,3,2,Yes
-280,Sold 2023-09-18,"€ 316,386",Rivermount,1971,Yes,No, Duplex, 2-Storey,4,2,Yes
-281,Sold 2023-09-18,"€322,803.00",Oak Park,1962,Yes,Yes, Detached, 1-Storey,3,1,No
-282,Sold 2023-09-18,"€328,749.00",Oak Park,1983,Yes,No, Duplex, 2-Storey,4,2,No
-283,Sold 2023-09-18,"€508,586.00",Brookville,2011,Yes,???, Detached, 1-Storey,3,2,No
-284,Sold 2023-09-18,"€519,692.00",Brookville,2006,Yes,Yes, Detached, 1-Storey,3,3,No
-285,Sold 2023-09-18,"€323,565.00",Brookville,1986,Yes,No, Detached, 1-Storey,3,1,No
-286,Sold 2023-09-18,"€390,975.00",Brookville,1989,Yes,Yes, Detached, 1-Storey,3,2,No
-287,Sold 2023-09-18,"€533,954.00",Brookville,2007,Yes,Yes, Detached, 2-Storey,3,2,No
-288,Sold 2023-09-18,"€313,254.00",Oak Park,1986,Yes,No, Duplex, 2-Storey,4,2,Yes
-289,Sold 2023-09-18,"€814,848.00",Brookville,2019,Yes,???, Detached, 1-Storey,3,2,No
-290,Sold 2023-09-18,"€626,788.00",Brookville,2014,Yes,No, Detached, 1-Storey,2,2,No
-291,Sold 2023-09-18,"€442,212.00",Avoca,2011,Yes,Yes, Detached, 1-Storey,3,2,NO
-292,Sold 2023-09-18,"€776,267.00",Avoca,2015,Yes,No, Detached, 1-Storey,3,2,Yes
-293,Sold 2023-09-18,"€1,054,712.00",Avoca,2018,Yes,Yes, Detached, 1-Storey,3,2,No
-294,Sold 2023-09-18,"€435,759.00",Porter Square,2016,Yes,Yes, Detached, 1-Storey,2,2,No
-295,Sold 2023-09-18,"€273,932.00",Summerston,Unknown,Yes,???, Detached, 2-Storey,4,1,YES
-296,Sold 2023-09-18,"€261,433.00",Summerston,1952,Yes,Yes, Detached, 2-Storey,4,1,Yes
-297,Sold 2023-09-18,"€486,195.00",Porter Square,2017,Yes,Yes, Semi-Detached, 2-Storey,2,2,No
-298,Sold 2023-09-18,"€436,576.00",Porter Square,2016,Yes,No, Detached, 1-Storey,2,2,Yes
-299,Sold 2023-09-18,"€332,347.00",Beacon Hill,1923,Yes,Yes, Detached, 1-Storey,3,1,NO
-300,Sold 2023-10-14,"€520,711.00",Oak Park,1979,Yes,Yes, Detached, 2-Storey,5,1,Yes
-301,Sold 2023-10-14,"€398,055.00",Oak Park,1966,Yes,Yes, Detached, 1-Storey,3,1,Yes
-302,Sold 2023-10-14,"€437,695.00",Oak Park,1965,Yes,Yes, Detached, 1-Storey,3,1,NO
-303,Sold 2023-10-14,"€265,528.00",Rivermount,1932,Yes,Yes, Bungalow, 1-Storey,2,1,No
-304,Sold 2023-10-14,"€200,912.00",Rivermount,1963,Yes,No, Bungalow, 1-Storey,2,2,No
-305,Sold 2023-10-14,"€411,512.00",Rivermount,c1941,Yes,Yes, Detached, 2-Storey,3,2,NO
-306,Sold 2023-10-14,"€545,630.00",Beacon Hill,1937,Yes,No, Detached, 1-Storey,3,2,No
-307,Sold 2023-10-14,"€319,029.00",Beacon Hill,1968,Yes,No, Detached, 1-Storey,2,1,No
-308,Sold 2023-10-14,"€581,167.00",Porter Square,2013,Yes,No, Detached, 2-Storey,3,2,No
-309,Sold 2023-10-14,"€371,410.00",Brookville,1989,Yes,Yes, Det., 1-Storey,3,1,No
-310,Sold 2023-10-14,"€649,617.00",Porter Square,2018,Yes,Yes, Detached, 2-Storey,2,2,No
-311,Sold 2023-10-14,"€326,755.00",Oak Park,1971,Yes,No, Detached, 1-Storey,2,1,Yes
-312,Sold 2023-10-14,"€265,212.00",Summerston,1951,Yes,Yes, Bungalow, 1-Storey,2,1,No
-313,Sold 2023-10-14,"€545,628.00",Oak Park,1977,Yes,???, Detached, 2-Storey,3,2,Yes
-314,Sold 2023-10-14,"€460,438.00",Broomhouse,1975,Yes,Yes, Detached, 1.5-Storey,3,2,No
-315,Sold 2023-10-14,"€569,282.00",Brookville,2012,Yes,Yes, Detached, 1-Storey,3,2,Yes
-316,Sold 2023-10-14,"€ 232,697",Rivermount,1966,Yes,No, Terraced, 1-Storey,3,2,NO
-317,Sold 2023-10-14,"€265,216.00",Beacon Hill,1943,Yes,Yes, Bungalow, 1-Storey,2,1,No
-318,Sold 2023-10-14,"€256,191.00",Oak Park,1954,Yes,No, Bungalow, 1-Storey,4,1,No
-319,Sold 2023-10-14,"€248,444.00",Summerston,1951,Yes,Yes, Bungalow, 1-Storey,3,2,No
-320,Sold 10 November 2023,"€292,593.00",Oak Park,Unknown,Yes,No, Detached, 1-Storey,2,1,NO
-321,Sold 10 November 2023,"€388,083.00",Oak Park,1972,Yes,???, Detached, 1-Storey,3,1,Yes
-322,Sold 10 November 2023,"€ 326,934",Summerston,1968,Yes,Yes, Detached, 1-Storey,3,1,Yes
-323,Sold 10 November 2023,"€440,181.00",Rivermount,1894,Yes,Yes, Detached, 2-Storey,4,1,No
-324,Sold 10 November 2023,"€570,464.00",Avoca,2011,Yes,Yes, Detached, 2-Storey,4,2,No
-325,Sold 10 November 2023,"€ 501,653",Avoca,2014,Yes,No, Detached, 2-Storey,3,2,No
-326,Sold 10 November 2023,"€897,566.00",Avoca,2018,Yes,No, Detached, 1-Storey,2,2,No
-327,Sold 10 November 2023,"€296,655.00",Oak Park,1985,Yes,Yes, Detached, 1-Storey,3,1,NO
-328,Sold 10 November 2023,"€400,802.00",Oak Park,1978,Yes,Yes, Detached, 1-Storey,3,1,No
-329,Sold 10 November 2023,"€399,666.00",Porter Square,2020,Yes,Yes, Semi-Detached, 2-Storey,2,2,No
-330,Sold 10 November 2023,"€ 714,416",Porter Square,2015,Yes,No, Detached, 2-Storey,4,2,No
-331,Sold 10 November 2023,"€314,486.00",Oak Park,1965,Yes,No, Det., 1-Storey,3,1,No
-332,Sold 10 November 2023,"€342,273.00",Brookville,2013,Yes,No, Semi-Detached, 1-Storey,1,1,Yes
-333,Sold 10 November 2023,"€395,457.00",Brookville,2008,Yes,Yes, Detached, 1-Storey,3,1,No
-334,Sold 10 November 2023,"€308,226.00",Oak Park,1982,Yes,Yes, Detached, 1-Storey,3,1,No
-335,Sold 10 November 2023,"€709,983.00",Brookville,2013,Yes,Yes, Detached, 2-Storey,3,2,No
-336,Sold 10 November 2023,"€486,939.00",Avoca,2011,Yes,No, Detached, 2-Storey,4,2,No
-337,Sold 10 November 2023,"€531,313.00",Avoca,Unknown,Yes,???, Detached, 2-Storey,4,2,Yes
-338,Sold 10 November 2023,"€ 469,174",Avoca,2004,Yes,Yes, Detached, 2-Storey,3,2,No
-339,Sold 10 November 2023,"€151,841.00",Broomhouse,1977,Yes,Yes, Bungalow, 1-Storey,3,1,Yes
-340,Sold 2023-12-20,"€656,406.00",Avoca,Unknown,Yes,Yes, Detached, 2-Storey,3,2,No
-341,Sold 2023-12-20,"€643,722.00",Avoca,Unknown,Yes,Yes, Det., 2-Storey,4,2,No
-342,Sold 2023-12-20,"€687,621.00",Avoca,2018,Yes,No, Semi-Detached, 1-Storey,2,2,No
-343,Sold 2023-12-20,"€505,525.00",Avoca,2011,Yes,Yes, Detached, 2-Storey,3,2,Yes
-344,Sold 2023-12-20,"€271,888.00",Rivermount,1904,Yes,No, Detached, 2-Storey,4,2,No
-345,Sold 2023-12-20,"€ 488,407",Avoca,2010,Yes,No, Detached, 2-Storey,3,2,No
-346,Sold 2023-12-20,"€452,673.00",Avoca,2005,Yes,Yes, Detached, 2-Storey,3,2,No
-347,Sold 2023-12-20,"€462,645.00",Avoca,2011,Yes,Yes, Detached, 2-Storey,3,2,No
-348,Sold 2023-12-20,"€790,807.00",Avoca,2015,Yes,Yes, Detached, 2-Storey,4,2,No
-349,Sold 2023-12-20,"€173,862.00",Rivermount,1933,Yes,Yes, Bungalow, 1-Storey,2,1,Yes
-350,Sold 2023-12-20,"€411,099.00",Oak Park,1972,Yes,Yes, Detached, 1-Storey,3,2,No
-351,Sold 2023-12-20,"€228,377.00",Rivermount,1950,Yes,No, Bungalow, 1-Storey,2,1,Yes
-352,Sold 2023-12-20,"€292,944.00",Rivermount,c1938,Yes,Yes, Detached, 1-Storey,3,1,Yes
-353,Sold 2023-12-20,"€370,992.00",Rivermount,1939,Yes,Yes, Detached, 2-Storey,3,3,No
-354,Sold 2023-12-20,"€204,534.00",Beacon Hill,1952,Yes,No, Bungalow, 1-Storey,2,1,No
+0,Sold 2023-01-01,"€145,057.00",Beacon Hill,1948,No,No,,,,,Yes
+1,Sold 2023-01-01,"€208,283.00",Summerston,1969,Yes,Yes,,,,,No
+2,Sold 2023-01-01,"€ 304,038",Beacon Hill,1938,Yes,No,,,,,No
+3,Sold 2023-01-01,"€337,216.00",Summerston,1961,Yes,Yes,,,,,No
+4,Sold 2023-01-01,"€ 526,551",Avoca,2020,Yes,No,,,,,No
+5,Sold 2023-01-01,"€749,274.00",Avoca,2016,Yes,Yes,,,,,No
+6,Sold 2023-01-01,"€806,933.00",Avoca,2012,Yes,No,,,,,No
+7,Sold 2023-01-01,"€550,269.00",Brookville,2020,Yes,Yes,,,,,Yes
+8,Sold 2023-01-01,"€606,337.00",Brookville,2013,Yes,Yes,,,,,Yes
+9,Sold 2023-01-01,"€810,407.00",Brookville,2020,Yes,Yes,,,,,No
+10,Sold 2023-01-01,"€356,899.00",Summerston,1977,Yes,No,,,,,Yes
+11,Sold 2023-01-01,"€218,285.00",Summerston,1914,???,No,,,,,Yes
+12,Sold 2023-01-01,"€883,039.00",Summerston,2019,Yes,Yes,,,,,No
+13,Sold 2023-01-01,"€ 233,185",Rivermount,1965,Yes,???,,,,,No
+14,Sold 2023-01-01,"€376,060.00",Rivermount,1996,Yes,No,,,,,Yes
+15,Sold 2023-01-01,"€515,621.00",Brookville,2019,Yes,Yes,,,,,NO
+16,Sold 2023-01-01,"€587,698.00",Brookville,2009,Yes,No,,,,,YES
+17,Sold 2023-01-01,"€344,923.00",Oak Park,1966,Yes,No,,,,,No
+18,Sold 2023-01-01,"€218,947.00",Oak Park,1961,No,No,,,,,No
+19,Sold 2023-01-01,"€437,957.00",Oak Park,1976,Yes,Yes,,,,,NO
+20,Sold 2023-02-19,"€528,142.00",Brookville,2017,Yes,No,,,,,No
+21,Sold 2023-02-19,"€455,666.00",Brookville,2017,Yes,No,,,,,Yes
+22,Sold 2023-02-19,"€387,949.00",Oak Park,1965,Yes,No,,,,,No
+23,Sold 2023-02-19,"€684,644.00",Porter Square,2017,Yes,Yes,,,,,Yes
+24,Sold 2023-02-19,"€336,343.00",Broomhouse,1976,Yes,Yes,,,,,NO
+25,Sold 2023-02-19,"€338,257.00",Broomhouse,1973,Yes,Yes,,,,,No
+26,Sold 2023-02-19,"€340,081.00",Broomhouse,1982,Yes,No,,,,,No
+27,Sold 2023-02-19,"€309,622.00",Broomhouse,1982,Yes,No,,,,,Yes
+28,Sold 2023-02-19,"€302,981.00",Broomhouse,1977,Yes,Yes,,,,,No
+29,Sold 2023-02-19,"€525,395.00",Brookville,2010,Yes,No,,,,,No
+30,Sold 2023-02-19,"€457,365.00",Avoca,2017,Yes,No,,,,,Yes
+31,Sold 2023-02-19,"€391,464.00",Avoca,Unknown,Yes,Yes,,,,,No
+32,Sold 2023-02-19,"€876,231.00",Avoca,2018,Yes,No,,,,,No
+33,Sold 2023-02-19,"€547,705.00",Avoca,2020,Yes,No,,,,,No
+34,Sold 2023-02-19,"€485,773.00",Avoca,2014,Yes,Yes,,,,,No
+35,Sold 2023-02-19,"€857,337.00",Avoca,2012,No,No,,,,,No
+36,Sold 2023-02-19,"€204,319.00",Summerston,1952,Yes,Yes,,,,,Yes
+37,Sold 2023-02-19,"€251,455.00",Summerston,1950,Yes,Yes,,,,,Yes
+38,Sold 2023-02-19,"€608,976.00",Brookville,2014,Yes,Yes,,,,,No
+39,Sold 2023-02-19,"€437,345.00",Summerston,1976,Yes,No,,,,,No
+40,Sold 2023-03-15,"€359,626.00",Summerston,1966,Yes,Yes,,,,,Yes
+41,Sold 2023-03-15,"€360,088.00",Avoca,1955,Yes,???,,,,,NO
+42,Sold 2023-03-15,"€764,039.00",Avoca,2016,Yes,No,,,,,No
+43,Sold 2023-03-15,"€519,491.00",Avoca,2004,Yes,No,,,,,No
+44,Sold 2023-03-15,"€ 305,853",Brookville,1984,Yes,Yes,,,,,NO
+45,Sold 2023-03-15,"€598,650.00",Porter Square,2018,Yes,Yes,,,,,Yes
+46,Sold 2023-03-15,"€452,971.00",Porter Square,2011,Yes,Yes,,,,,No
+47,Sold 2023-03-15,"€749,205.00",Avoca,2009,Yes,Yes,,,,,No
+48,Sold 2023-03-15,"€457,144.00",Avoca,2006,Yes,Yes,,,,,No
+49,Sold 2023-03-15,"€761,633.00",Porter Square,2020,Yes,Yes,,,,,Yes
+50,Sold 2023-03-15,"€317,069.00",Oak Park,1979,???,No,,,,,No
+51,Sold 2023-03-15,"€635,452.00",Avoca,2012,Yes,No,,,,,No
+52,Sold 2023-03-15,"€444,837.00",Oak Park,1975,Yes,???,,,,,No
+53,Sold 2023-03-15,"€358,834.00",Oak Park,1970,Yes,Yes,,,,,Yes
+54,Sold 2023-03-15,"€278,535.00",Rivermount,1959,Yes,Yes,,,,,Yes
+55,Sold 2023-03-15,"€365,873.00",Beacon Hill,1948,Yes,Yes,,,,,NO
+56,Sold 2023-03-15,"€ 672,347",Rivermount,1927,Yes,Yes,,,,,Yes
+57,Sold 2023-03-15,"€1,599,199.00",Avoca,2020,Yes,No,,,,,No
+58,Sold 2023-03-15,"€431,933.00",Avoca,2019,Yes,Yes,,,,,NO
+59,Sold 2023-03-15,"€ 246,561",Summerston,1957,Yes,Yes,,,,,Yes
+60,Sold 2023-04-11,"€488,814.00",Avoca,2005,Yes,Yes,,,,,Yes
+61,Sold 2023-04-11,"€502,896.00",Brookville,2016,Yes,Yes,,,,,Yes
+62,Sold 2023-04-11,"€ 348,014",Summerston,1968,Yes,Yes,,,,,Yes
+63,Sold 2023-04-11,"€ 644,584",Porter Square,2018,???,Yes,,,,,No
+64,Sold 2023-04-11,"€278,037.00",Broomhouse,1929,Yes,Yes,,,,,No
+65,Sold 2023-04-11,"€549,189.00",Porter Square,2020,Yes,Yes,,,,,No
+66,Sold 2023-04-11,"€347,516.00",Broomhouse,1994,Yes,No,,,,,No
+67,Sold 2023-04-11,"€480,146.00",Porter Square,2004,Yes,Yes,,,,,Yes
+68,Sold 2023-04-11,"€761,735.00",Porter Square,2020,Yes,Yes,,,,,No
+69,Sold 2023-04-11,"€382,821.00",Broomhouse,1981,Yes,Yes,,,,,No
+70,Sold 2023-04-11,"€361,406.00",Brookville,2012,Yes,No,,,,,Yes
+71,Sold 2023-04-11,"€344,976.00",Brookville,1984,Yes,Yes,,,,,No
+72,Sold 2023-04-11,"€382,163.00",Brookville,1998,???,Yes,,,,,No
+73,Sold 2023-04-11,"€566,020.00",Brookville,2008,Yes,No,,,,,No
+74,Sold 2023-04-11,"€514,683.00",Brookville,2020,Yes,No,,,,,Yes
+75,Sold 2023-04-11,"€565,631.00",Brookville,2020,Yes,Yes,,,,,NO
+76,Sold 2023-04-11,"€474,448.00",Avoca,1995,Yes,Yes,,,,,No
+77,Sold 2023-04-11,"€514,194.00",Avoca,2007,Yes,Yes,,,,,No
+78,Sold 2023-04-11,"€552,712.00",Avoca,2019,Yes,No,,,,,No
+79,Sold 2023-04-11,"€272,506.00",Rivermount,1925,Yes,No,,,,,No
+80,Sold 2023-05-03,"€279,187.00",Rivermount,Unknown,Yes,Yes,,,,,No
+81,Sold 2023-05-03,"€218,345.00",Rivermount,1915,Yes,Yes,,,,,Yes
+82,Sold 2023-05-03,"€644,506.00",Brookville,2019,Yes,No,,,,,No
+83,Sold 2023-05-03,"€361,900.00",Brookville,2015,Yes,No,,,,,No
+84,Sold 2023-05-03,"€ 374,331",Brookville,2004,Yes,No,,,,,No
+85,Sold 2023-05-03,"€275,718.00",Beacon Hill,1928,No,Yes,,,,,No
+86,Sold 2023-05-03,"€353,776.00",Beacon Hill,1933,Yes,Yes,,,,,Yes
+87,Sold 2023-05-03,"€862,049.00",Brookville,2012,Yes,No,,,,,No
+88,Sold 2023-05-03,"€607,942.00",Avoca,2006,No,No,,,,,No
+89,Sold 2023-05-03,"€468,711.00",Avoca,2005,Yes,Yes,,,,,Yes
+90,Sold 2023-05-03,"€341,299.00",Beacon Hill,1951,Yes,Yes,,,,,No
+91,Sold 2023-05-03,"€92,463.00",Beacon Hill,1952,Yes,No,,,,,NO
+92,Sold 2023-05-03,"€195,186.00",Beacon Hill,Unknown,Yes,No,,,,,No
+93,Sold 2023-05-03,"€333,429.00",Beacon Hill,1942,Yes,No,,,,,No
+94,Sold 2023-05-03,"€274,118.00",Beacon Hill,1947,Yes,Yes,,,,,NO
+95,Sold 2023-05-03,"€599,552.00",Beacon Hill,1935,Yes,No,,,,,No
+96,Sold 2023-05-03,"€722,663.00",Rivermount,1892,Yes,No,,,,,No
+97,Sold 2023-05-03,"€966,293.00",Avoca,2020,Yes,Yes,,,,,NO
+98,Sold 2023-05-03,"€ 453,851",Avoca,2004,Yes,Yes,,,,,No
+99,Sold 2023-05-03,"€747,553.00",Avoca,2020,Yes,Yes,,,,,No
+100,Sold 2023-05-14,"€384,659.00",Summerston,1973,Yes,Yes,,,,,Yes
+101,Sold 2023-05-14,"€450,011.00",Avoca,2020,Yes,???,,,,,No
+102,Sold 2023-05-14,"€475,628.00",Avoca,2002,Yes,Yes,,,,,No
+103,Sold 2023-05-14,"€441,814.00",Avoca,Unknown,Yes,Yes,,,,,Yes
+104,Sold 2023-05-14,"€356,058.00",Brookville,Unknown,Yes,???,,,,,No
+105,Sold 2023-05-14,"€252,004.00",Summerston,c1950,No,Yes,,,,,Yes
+106,Sold 2023-05-14,"€1,168,137.00",Avoca,2020,Yes,Yes,,,,,No
+107,Sold 2023-05-14,"€639,172.00",Summerston,1947,Yes,???,,,,,No
+108,Sold 2023-05-14,"€273,525.00",Summerston,1961,No,Yes,,,,,No
+109,Sold 2023-05-14,"€604,010.00",Avoca,2011,Yes,Yes,,,,,Yes
+110,Sold 2023-05-14,"€305,861.00",Beacon Hill,1947,Yes,No,,,,,NO
+111,Sold 2023-05-14,"€338,202.00",Beacon Hill,1955,Yes,Yes,,,,,Yes
+112,Sold 2023-05-14,"€298,602.00",Beacon Hill,1937,Yes,No,,,,,Yes
+113,Sold 2023-05-14,"€277,773.00",Rivermount,c1936,Yes,Yes,,,,,No
+114,Sold 2023-05-14,"€463,383.00",Oak Park,1974,Yes,???,,,,,No
+115,Sold 2023-05-14,"€371,306.00",Oak Park,1977,Yes,Yes,,,,,No
+116,Sold 2023-05-14,"€356,076.00",Oak Park,1962,Yes,Yes,,,,,Yes
+117,Sold 2023-05-14,"€339,709.00",Oak Park,1960,Yes,Yes,,,,,No
+118,Sold 2023-05-14,"€275,528.00",Beacon Hill,1928,Yes,Yes,,,,,NO
+119,Sold 2023-05-14,"€375,433.00",Porter Square,Unknown,Yes,Yes,,,,,No
+120,Sold 2023-05-30,"€398,484.00",Oak Park,1969,Yes,Yes,,,,,No
+121,Sold 2023-05-30,"€681,737.00",Porter Square,2017,Yes,Yes,,,,,NO
+122,Sold 2023-05-30,"€260,750.00",Broomhouse,1947,No,Yes,,,,,No
+123,Sold 2023-05-30,"€359,235.00",Broomhouse,1975,Yes,No,,,,,No
+124,Sold 2023-05-30,"€543,068.00",Brookville,2011,Yes,Yes,,,,,No
+125,Sold 2023-05-30,"€388,236.00",Broomhouse,1975,Yes,No,,,,,No
+126,Sold 2023-05-30,"€ 373,011",Brookville,2015,Yes,No,,,,,Yes
+127,Sold 2023-05-30,"€573,016.00",Brookville,2002,Yes,Yes,,,,,No
+128,Sold 2023-05-30,"€333,721.00",Broomhouse,1979,Yes,No,,,,,Yes
+129,Sold 2023-05-30,"€289,014.00",Oak Park,1992,Yes,Yes,,,,,Yes
+130,Sold 2023-05-30,"€403,435.00",Oak Park,1970,Yes,Yes,,,,,No
+131,Sold 2023-05-30,"€283,300.00",Oak Park,1985,Yes,No,,,,,No
+132,Sold 2023-05-30,"€1,081,888.00",Avoca,2015,Yes,Yes,,,,,No
+133,Sold 2023-05-30,"€200,784.00",Oak Park,1961,No,No,,,,,No
+134,Sold 2023-05-30,"€ 512,685",Oak Park,1980,Yes,Yes,,,,,No
+135,Sold 2023-05-30,"€404,180.00",Oak Park,1982,Yes,No,,,,,No
+136,Sold 2023-05-30,"€343,850.00",Summerston,2019,No,Yes,,,,,Yes
+137,Sold 2023-05-30,"€494,756.00",Brookville,2013,Yes,Yes,,,,,No
+138,Sold 2023-05-30,"€304,713.00",Summerston,Unknown,Yes,Yes,,,,,No
+139,Sold 2023-05-30,"€300,872.00",Summerston,1959,Yes,No,,,,,Yes
+140,Sold 2023-06-11,"€246,607.00",Summerston,1972,Yes,???,,,,,No
+141,Sold 2023-06-11,"€294,853.00",Summerston,Unknown,Yes,No,,,,,No
+142,Sold 2023-06-11,"€398,497.00",Summerston,2020,Yes,No,,,,,Yes
+143,Sold 2023-06-11,"€307,180.00",Summerston,1971,Yes,Yes,,,,,No
+144,Sold 2023-06-11,"€290,438.00",Rivermount,1900,Yes,No,,,,,NO
+145,Sold 2023-06-11,"€211,114.00",Rivermount,c1922,Yes,Yes,,,,,Yes
+146,Sold 2023-06-11,"€350,608.00",Rivermount,1921,Yes,Yes,,,,,NO
+147,Sold 2023-06-11,"€252,540.00",Rivermount,1967,No,Yes,,,,,No
+148,Sold 2023-06-11,"€435,506.00",Rivermount,c1941,Yes,Yes,,,,,No
+149,Sold 2023-06-11,"€292,427.00",Rivermount,1932,Yes,No,,,,,Yes
+150,Sold 2023-06-11,"€232,532.00",Oak Park,1962,No,No,,,,,No
+151,Sold 2023-06-11,"€468,732.00",Brookville,2013,Yes,Yes,,,,,No
+152,Sold 2023-06-11,"€972,812.00",Avoca,2016,Yes,No,,,,,No
+153,Sold 2023-06-11,"€265,282.00",Oak Park,1932,Yes,No,,,,,No
+154,Sold 2023-06-11,"€303,462.00",Oak Park,1982,Yes,???,,,,,Yes
+155,Sold 2023-06-11,"€572,209.00",Avoca,2011,Yes,Yes,,,,,No
+156,Sold 2023-06-11,"€429,171.00",Broomhouse,1976,Yes,Yes,,,,,No
+157,Sold 2023-06-11,"€371,750.00",Broomhouse,1983,Yes,No,,,,,No
+158,Sold 2023-06-11,"€389,690.00",Broomhouse,1988,Yes,Yes,,,,,Yes
+159,Sold 2023-06-11,"€433,713.00",Avoca,2015,Yes,No,,,,,No
+160,Sold 2023-06-20,"€1,281,082.00",Avoca,2020,Yes,Yes,,,,,No
+161,Sold 2023-06-20,"€540,042.00",Brookville,2008,Yes,Yes,,,,,No
+162,Sold 2023-06-20,"€330,629.00",Oak Park,1968,Yes,Yes,,,,,Yes
+163,Sold 2023-06-20,"€486,656.00",Brookville,2010,Yes,Yes,,,,,Yes
+164,Sold 2023-06-20,"€455,886.00",Avoca,2008,Yes,Yes,,,,,Yes
+165,Sold 2023-06-20,"€552,041.00",Brookville,2013,Yes,No,,,,,No
+166,Sold 2023-06-20,"€637,108.00",Brookville,2013,Yes,???,,,,,Yes
+167,Sold 2023-06-20,"€ 611,051",Brookville,2004,Yes,No,,,,,No
+168,Sold 2023-06-20,"€ 624,496",Brookville,2007,Yes,No,,,,,NO
+169,Sold 2023-06-20,"€ 602,024",Brookville,2014,Yes,Yes,,,,,No
+170,Sold 2023-06-20,"€457,697.00",Avoca,2017,Yes,Yes,,,,,No
+171,Sold 2023-06-20,"€770,552.00",Brookville,2008,Yes,Yes,,,,,No
+172,Sold 2023-06-20,"€376,031.00",Brookville,2006,Yes,No,,,,,No
+173,Sold 2023-06-20,"€789,037.00",Avoca,Unknown,Yes,No,,,,,Yes
+174,Sold 2023-06-20,"€650,212.00",Avoca,Unknown,Yes,Yes,,,,,No
+175,Sold 2023-06-20,"€477,322.00",Avoca,2011,Yes,No,,,,,No
+176,Sold 2023-06-20,"€472,062.00",Avoca,2012,Yes,Yes,,,,,No
+177,Sold 2023-06-20,"€403,617.00",Rivermount,c1927,Yes,Yes,,,,,No
+178,Sold 2023-06-20,"€276,591.00",Oak Park,1963,Yes,Yes,,,,,NO
+179,Sold 2023-06-20,"€431,682.00",Oak Park,1963,Yes,???,,,,,No
+180,Sold 2023-06-30,"€560,198.00",Porter Square,2020,Yes,Yes,,,,,No
+181,Sold 2023-06-30,"€737,240.00",Porter Square,2012,Yes,Yes,,,,,Yes
+182,Sold 2023-06-30,"€ 318,771",Oak Park,1971,Yes,Yes,,,,,NO
+183,Sold 2023-06-30,"€340,965.00",Summerston,1966,Yes,Yes,,,,,NO
+184,Sold 2023-06-30,"€251,868.00",Summerston,1934,No,No,,,,,Yes
+185,Sold 2023-06-30,"€694,776.00",Avoca,2019,Yes,Yes,,,,,Yes
+186,Sold 2023-06-30,"€ 318,466",Oak Park,1982,???,Yes,,,,,No
+187,Sold 2023-06-30,"€332,252.00",Oak Park,1971,Yes,Yes,,,,,No
+188,Sold 2023-06-30,"€399,139.00",Oak Park,1979,Yes,Yes,,,,,No
+189,Sold 2023-06-30,"€276,773.00",Oak Park,1939,Yes,???,,,,,No
+190,Sold 2023-06-30,"€328,311.00",Beacon Hill,1948,Yes,Yes,,,,,Yes
+191,Sold 2023-06-30,"€299,714.00",Oak Park,1977,Yes,Yes,,,,,YES
+192,Sold 2023-06-30,"€387,773.00",Summerston,1975,Yes,No,,,,,Yes
+193,Sold 2023-06-30,"€210,405.00",Summerston,1968,Yes,Yes,,,,,No
+194,Sold 2023-06-30,"€261,234.00",Summerston,1937,Yes,Yes,,,,,No
+195,Sold 2023-06-30,"€623,788.00",Summerston,1954,Yes,Yes,,,,,No
+196,Sold 2023-06-30,"€370,422.00",Rivermount,1932,Yes,Yes,,,,,Yes
+197,Sold 2023-06-30,"€318,596.00",Rivermount,1964,Yes,No,,,,,Yes
+198,Sold 2023-06-30,"€505,384.00",Brookville,2008,Yes,Yes,,,,,NO
+199,Sold 2023-06-30,"€927,044.00",Avoca,2020,Yes,Yes,,,,,No
+200,Sold 2023-07-10,"€335,462.00",Broomhouse,1980,???,Yes,,,,,No
+201,Sold 2023-07-10,"€ 279,307",Oak Park,1980,No,No,,,,,No
+202,Sold 2023-07-10,"€326,620.00",Broomhouse,1970,No,No,,,,,Yes
+203,Sold 2023-07-10,"€332,616.00",Broomhouse,1980,Yes,No,,,,,Yes
+204,Sold 2023-07-10,"€453,413.00",Broomhouse,1990,Yes,Yes,,,,,No
+205,Sold 2023-07-10,"€315,982.00",Broomhouse,1972,Yes,Yes,,,,,No
+206,Sold 2023-07-10,"€527,669.00",Summerston,2015,Yes,Yes,,,,,Yes
+207,Sold 2023-07-10,"€203,251.00",Summerston,1964,Yes,Yes,,,,,No
+208,Sold 2023-07-10,"€297,962.00",Summerston,1953,???,Yes,,,,,No
+209,Sold 2023-07-10,"€348,196.00",Oak Park,Unknown,Yes,No,,,,,No
+210,Sold 2023-07-10,"€957,281.00",Oak Park,1984,Yes,Yes,,,,,No
+211,Sold 2023-07-10,"€517,091.00",Brookville,Unknown,Yes,No,,,,,No
+212,Sold 2023-07-10,"€415,379.00",Oak Park,1975,Yes,Yes,,,,,No
+213,Sold 2023-07-10,"€340,774.00",Oak Park,1971,Yes,No,,,,,No
+214,Sold 2023-07-10,"€343,038.00",Brookville,2013,Yes,No,,,,,No
+215,Sold 2023-07-10,"€613,974.00",Brookville,2016,Yes,Yes,,,,,Yes
+216,Sold 2023-07-10,"€351,780.00",Brookville,1990,Yes,Yes,,,,,No
+217,Sold 2023-07-10,"€252,067.00",Oak Park,1979,No,No,,,,,Yes
+218,Sold 2023-07-10,"€314,131.00",Broomhouse,1983,Yes,Yes,,,,,Yes
+219,Sold 2023-07-10,"€362,818.00",Broomhouse,1969,Yes,No,,,,,No
+220,Sold 20 July 2023,"€348,043.00",Broomhouse,1989,Yes,Yes,,,,,No
+221,Sold 20 July 2023,"€618,131.00",Avoca,2019,Yes,No,,,,,Yes
+222,Sold 20 July 2023,"€573,392.00",Beacon Hill,1928,Yes,Yes,,,,,No
+223,Sold 20 July 2023,"€416,346.00",Summerston,1989,Yes,Yes,,,,,Yes
+224,Sold 20 July 2023,"€534,784.00",Summerston,2019,Yes,Yes,,,,,Yes
+225,Sold 20 July 2023,"€686,698.00",Avoca,2016,Yes,Yes,,,,,No
+226,Sold 20 July 2023,"€498,644.00",Avoca,2016,Yes,Yes,,,,,No
+227,Sold 20 July 2023,"€277,544.00",Beacon Hill,c1940,Yes,Yes,,,,,No
+228,Sold 20 July 2023,"€1,023,388.00",Avoca,2020,Yes,Yes,,,,,No
+229,Sold 20 July 2023,"€935,043.00",Avoca,2018,Yes,Yes,,,,,No
+230,Sold 20 July 2023,"€810,328.00",Avoca,2017,Yes,No,,,,,Yes
+231,Sold 20 July 2023,"€464,228.00",Avoca,1996,Yes,Yes,,,,,No
+232,Sold 20 July 2023,"€ 525,008",Beacon Hill,1933,Yes,No,,,,,No
+233,Sold 20 July 2023,"€ 342,765",Beacon Hill,1947,Yes,No,,,,,No
+234,Sold 20 July 2023,"€196,931.00",Beacon Hill,1945,Yes,No,,,,,Yes
+235,Sold 20 July 2023,"€1,017,385.00",Avoca,2017,Yes,No,,,,,No
+236,Sold 20 July 2023,"€454,716.00",Avoca,2015,Yes,No,,,,,No
+237,Sold 20 July 2023,"€1,097,789.00",Avoca,2018,Yes,Yes,,,,,No
+238,Sold 20 July 2023,"€212,171.00",Beacon Hill,1942,No,No,,,,,No
+239,Sold 20 July 2023,"€278,852.00",Beacon Hill,1962,Yes,Yes,,,,,Yes
+240,Sold 2023-07-27,"€454,462.00",Avoca,2004,Yes,Yes,,,,,No
+241,Sold 2023-07-27,"€458,201.00",Avoca,2004,Yes,Yes,,,,,No
+242,Sold 2023-07-27,"€927,011.00",Avoca,2020,Yes,Yes,,,,,No
+243,Sold 2023-07-27,"€430,910.00",Avoca,2018,Yes,No,,,,,No
+244,Sold 2023-07-27,"€504,939.00",Avoca,2007,Yes,Yes,,,,,No
+245,Sold 2023-07-27,"€659,022.00",Avoca,2012,Yes,Yes,,,,,No
+246,Sold 2023-07-27,"€692,739.00",Avoca,2018,Yes,No,,,,,No
+247,Sold 2023-07-27,"€381,408.00",Oak Park,1962,Yes,Yes,,,,,Yes
+248,Sold 2023-07-27,"€325,522.00",Oak Park,1983,Yes,Yes,,,,,No
+249,Sold 2023-07-27,"€406,503.00",Oak Park,1981,Yes,No,,,,,Yes
+250,Sold 2023-07-27,"€353,022.00",Broomhouse,1994,Yes,Yes,,,,,Yes
+251,Sold 2023-07-27,"€531,470.00",Oak Park,1981,Yes,No,,,,,NO
+252,Sold 2023-07-27,"€286,794.00",Summerston,1953,Yes,No,,,,,No
+253,Sold 2023-07-27,"€343,872.00",Brookville,1984,Yes,Yes,,,,,No
+254,Sold 2023-07-27,"€356,822.00",Summerston,1978,Yes,No,,,,,Yes
+255,Sold 2023-07-27,"€348,123.00",Rivermount,1928,Yes,Yes,,,,,No
+256,Sold 2023-07-27,"€ 520,513",Avoca,2017,Yes,No,,,,,Yes
+257,Sold 2023-07-27,"€277,857.00",Oak Park,1974,Yes,Yes,,,,,No
+258,Sold 2023-07-27,"€317,400.00",Brookville,1990,Yes,No,,,,,Yes
+259,Sold 2023-07-27,"€576,346.00",Brookville,2016,Yes,Yes,,,,,Yes
+260,Sold 2023-08-24,"€385,796.00",Oak Park,1982,Yes,Yes,,,,,No
+261,Sold 2023-08-24,"€529,403.00",Brookville,2015,Yes,Yes,,,,,No
+262,Sold 2023-08-24,"€579,351.00",Brookville,2014,Yes,Yes,,,,,Yes
+263,Sold 2023-08-24,"€448,527.00",Oak Park,1959,Yes,Yes,,,,,No
+264,Sold 2023-08-24,"€503,315.00",Brookville,2016,Yes,Yes,,,,,Yes
+265,Sold 2023-08-24,"€358,804.00",Brookville,2007,Yes,Yes,,,,,No
+266,Sold 2023-08-24,"€411,905.00",Oak Park,1976,Yes,Yes,,,,,No
+267,Sold 2023-08-24,"€622,778.00",Brookville,2009,Yes,Yes,,,,,Yes
+268,Sold 2023-08-24,"€485,119.00",Brookville,2017,Yes,???,,,,,Yes
+269,Sold 2023-08-24,"€554,129.00",Brookville,2009,Yes,No,,,,,No
+270,Sold 2023-08-24,"€380,375.00",Brookville,2020,Yes,No,,,,,No
+271,Sold 2023-08-24,"€314,956.00",Brookville,1984,Yes,No,,,,,No
+272,Sold 2023-08-24,"€313,164.00",Oak Park,1986,Yes,???,,,,,No
+273,Sold 2023-08-24,"€ 420,047",Oak Park,1972,Yes,No,,,,,No
+274,Sold 2023-08-24,"€348,250.00",Rivermount,1958,Yes,Yes,,,,,No
+275,Sold 2023-08-24,"€ 359,040",Broomhouse,1974,Yes,Yes,,,,,No
+276,Sold 2023-08-24,"€342,545.00",Oak Park,1961,Yes,???,,,,,No
+277,Sold 2023-08-24,"€319,509.00",Rivermount,1902,Yes,Yes,,,,,No
+278,Sold 2023-08-24,"€348,875.00",Rivermount,1964,Yes,Yes,,,,,No
+279,Sold 2023-08-24,"€226,553.00",Rivermount,1941,Yes,???,,,,,Yes
+280,Sold 2023-09-18,"€ 316,386",Rivermount,1971,Yes,No,,,,,Yes
+281,Sold 2023-09-18,"€322,803.00",Oak Park,1962,Yes,Yes,,,,,No
+282,Sold 2023-09-18,"€328,749.00",Oak Park,1983,Yes,No,,,,,No
+283,Sold 2023-09-18,"€508,586.00",Brookville,2011,Yes,???,,,,,No
+284,Sold 2023-09-18,"€519,692.00",Brookville,2006,Yes,Yes,,,,,No
+285,Sold 2023-09-18,"€323,565.00",Brookville,1986,Yes,No,,,,,No
+286,Sold 2023-09-18,"€390,975.00",Brookville,1989,Yes,Yes,,,,,No
+287,Sold 2023-09-18,"€533,954.00",Brookville,2007,Yes,Yes,,,,,No
+288,Sold 2023-09-18,"€313,254.00",Oak Park,1986,Yes,No,,,,,Yes
+289,Sold 2023-09-18,"€814,848.00",Brookville,2019,Yes,???,,,,,No
+290,Sold 2023-09-18,"€626,788.00",Brookville,2014,Yes,No,,,,,No
+291,Sold 2023-09-18,"€442,212.00",Avoca,2011,Yes,Yes,,,,,NO
+292,Sold 2023-09-18,"€776,267.00",Avoca,2015,Yes,No,,,,,Yes
+293,Sold 2023-09-18,"€1,054,712.00",Avoca,2018,Yes,Yes,,,,,No
+294,Sold 2023-09-18,"€435,759.00",Porter Square,2016,Yes,Yes,,,,,No
+295,Sold 2023-09-18,"€273,932.00",Summerston,Unknown,Yes,???,,,,,YES
+296,Sold 2023-09-18,"€261,433.00",Summerston,1952,Yes,Yes,,,,,Yes
+297,Sold 2023-09-18,"€486,195.00",Porter Square,2017,Yes,Yes,,,,,No
+298,Sold 2023-09-18,"€436,576.00",Porter Square,2016,Yes,No,,,,,Yes
+299,Sold 2023-09-18,"€332,347.00",Beacon Hill,1923,Yes,Yes,,,,,NO
+300,Sold 2023-10-14,"€520,711.00",Oak Park,1979,Yes,Yes,,,,,Yes
+301,Sold 2023-10-14,"€398,055.00",Oak Park,1966,Yes,Yes,,,,,Yes
+302,Sold 2023-10-14,"€437,695.00",Oak Park,1965,Yes,Yes,,,,,NO
+303,Sold 2023-10-14,"€265,528.00",Rivermount,1932,Yes,Yes,,,,,No
+304,Sold 2023-10-14,"€200,912.00",Rivermount,1963,Yes,No,,,,,No
+305,Sold 2023-10-14,"€411,512.00",Rivermount,c1941,Yes,Yes,,,,,NO
+306,Sold 2023-10-14,"€545,630.00",Beacon Hill,1937,Yes,No,,,,,No
+307,Sold 2023-10-14,"€319,029.00",Beacon Hill,1968,Yes,No,,,,,No
+308,Sold 2023-10-14,"€581,167.00",Porter Square,2013,Yes,No,,,,,No
+309,Sold 2023-10-14,"€371,410.00",Brookville,1989,Yes,Yes,,,,,No
+310,Sold 2023-10-14,"€649,617.00",Porter Square,2018,Yes,Yes,,,,,No
+311,Sold 2023-10-14,"€326,755.00",Oak Park,1971,Yes,No,,,,,Yes
+312,Sold 2023-10-14,"€265,212.00",Summerston,1951,Yes,Yes,,,,,No
+313,Sold 2023-10-14,"€545,628.00",Oak Park,1977,Yes,???,,,,,Yes
+314,Sold 2023-10-14,"€460,438.00",Broomhouse,1975,Yes,Yes,,,,,No
+315,Sold 2023-10-14,"€569,282.00",Brookville,2012,Yes,Yes,,,,,Yes
+316,Sold 2023-10-14,"€ 232,697",Rivermount,1966,Yes,No,,,,,NO
+317,Sold 2023-10-14,"€265,216.00",Beacon Hill,1943,Yes,Yes,,,,,No
+318,Sold 2023-10-14,"€256,191.00",Oak Park,1954,Yes,No,,,,,No
+319,Sold 2023-10-14,"€248,444.00",Summerston,1951,Yes,Yes,,,,,No
+320,Sold 10 November 2023,"€292,593.00",Oak Park,Unknown,Yes,No,,,,,NO
+321,Sold 10 November 2023,"€388,083.00",Oak Park,1972,Yes,???,,,,,Yes
+322,Sold 10 November 2023,"€ 326,934",Summerston,1968,Yes,Yes,,,,,Yes
+323,Sold 10 November 2023,"€440,181.00",Rivermount,1894,Yes,Yes,,,,,No
+324,Sold 10 November 2023,"€570,464.00",Avoca,2011,Yes,Yes,,,,,No
+325,Sold 10 November 2023,"€ 501,653",Avoca,2014,Yes,No,,,,,No
+326,Sold 10 November 2023,"€897,566.00",Avoca,2018,Yes,No,,,,,No
+327,Sold 10 November 2023,"€296,655.00",Oak Park,1985,Yes,Yes,,,,,NO
+328,Sold 10 November 2023,"€400,802.00",Oak Park,1978,Yes,Yes,,,,,No
+329,Sold 10 November 2023,"€399,666.00",Porter Square,2020,Yes,Yes,,,,,No
+330,Sold 10 November 2023,"€ 714,416",Porter Square,2015,Yes,No,,,,,No
+331,Sold 10 November 2023,"€314,486.00",Oak Park,1965,Yes,No,,,,,No
+332,Sold 10 November 2023,"€342,273.00",Brookville,2013,Yes,No,,,,,Yes
+333,Sold 10 November 2023,"€395,457.00",Brookville,2008,Yes,Yes,,,,,No
+334,Sold 10 November 2023,"€308,226.00",Oak Park,1982,Yes,Yes,,,,,No
+335,Sold 10 November 2023,"€709,983.00",Brookville,2013,Yes,Yes,,,,,No
+336,Sold 10 November 2023,"€486,939.00",Avoca,2011,Yes,No,,,,,No
+337,Sold 10 November 2023,"€531,313.00",Avoca,Unknown,Yes,???,,,,,Yes
+338,Sold 10 November 2023,"€ 469,174",Avoca,2004,Yes,Yes,,,,,No
+339,Sold 10 November 2023,"€151,841.00",Broomhouse,1977,Yes,Yes,,,,,Yes
+340,Sold 2023-12-20,"€656,406.00",Avoca,Unknown,Yes,Yes,,,,,No
+341,Sold 2023-12-20,"€643,722.00",Avoca,Unknown,Yes,Yes,,,,,No
+342,Sold 2023-12-20,"€687,621.00",Avoca,2018,Yes,No,,,,,No
+343,Sold 2023-12-20,"€505,525.00",Avoca,2011,Yes,Yes,,,,,Yes
+344,Sold 2023-12-20,"€271,888.00",Rivermount,1904,Yes,No,,,,,No
+345,Sold 2023-12-20,"€ 488,407",Avoca,2010,Yes,No,,,,,No
+346,Sold 2023-12-20,"€452,673.00",Avoca,2005,Yes,Yes,,,,,No
+347,Sold 2023-12-20,"€462,645.00",Avoca,2011,Yes,Yes,,,,,No
+348,Sold 2023-12-20,"€790,807.00",Avoca,2015,Yes,Yes,,,,,No
+349,Sold 2023-12-20,"€173,862.00",Rivermount,1933,Yes,Yes,,,,,Yes
+350,Sold 2023-12-20,"€411,099.00",Oak Park,1972,Yes,Yes,,,,,No
+351,Sold 2023-12-20,"€228,377.00",Rivermount,1950,Yes,No,,,,,Yes
+352,Sold 2023-12-20,"€292,944.00",Rivermount,c1938,Yes,Yes,,,,,Yes
+353,Sold 2023-12-20,"€370,992.00",Rivermount,1939,Yes,Yes,,,,,No
+354,Sold 2023-12-20,"€204,534.00",Beacon Hill,1952,Yes,No,,,,,No
